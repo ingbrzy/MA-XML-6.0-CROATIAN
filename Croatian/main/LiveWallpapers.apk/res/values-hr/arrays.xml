@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="polar_clock_palette_names">
+    </string-array>
+    <string-array name="polar_clock_palette_ids">
+        <item>paleta_siva</item>
+        <item>paleta_bijela</item>
+        <item>paleta_crna</item>
+        <item>paleta_matrica</item>
+        <item>paleta_maskenbal</item>
+        <item>paleta_ljubičasta</item>
+        <item>paleta_oceanska</item>
+        <item>paleta_zenburn</item>
+    </string-array>
+</resources> 

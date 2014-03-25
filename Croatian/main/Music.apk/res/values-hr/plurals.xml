@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">"Broj pronađenih pjesama: %d."</item>
+        <item quantity="one">%d pronađena pjesma</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">"Broj pjesama: %d"</item>
+        <item quantity="one">%d pjesma</item>
+    </plurals>
+</resources> 

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="show_dev_countdown">
-        <item quantity="other">Još %1$d koraka i postat ćete razvojni programer .</item>
+        <item quantity="other">Još %1$d koraka i postat ćete razvojni programer.</item>
         <item quantity="one">Još %1$d korak i postat ćete razvojni programer.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
@@ -40,4 +40,4 @@
         <item quantity="other">Pronađen je sljedeći broj pisača: %1$s</item>
         <item quantity="one">Pronađen je %1$s pisač</item>
     </plurals>
-</resources>
+</resources> 
