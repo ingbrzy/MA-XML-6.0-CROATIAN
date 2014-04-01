@@ -1,78 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="timezone_rename_labels">
-        <item>Australsko središnje – NT</item>
-        <item>Australsko središnje – SA</item>
-        <item>Australsko istočno – QLD</item>
-        <item>Australsko istočno – NSW</item>
-        <item>Planinsko standardno – Dawson Creek</item>
-        <item>Središnje standardno – Saskatchewan</item>
-        <item>Istočno standardno – Atikokan</item>
-        <item>Atlantsko standardno – Quebec</item>
-        <item>Havajsko-aleutsko – Havaji</item>
-        <item>Havajsko-aleutsko – Aljaska</item>
-        <item>Pacifičko standardno – Metlakatla</item>
-        <item>Planinsko standardno – Arizona</item>
-        <item>Pacifičko – Baja California</item>
-        <item>Planinsko – Chihuahua</item>
-        <item>Središnje – Tamaulipas</item>
-        <item>Planinsko – Sonora</item>
-        <item>Istočnoafričko vrijeme</item>
-        <item>Atlantsko standardno vrijeme</item>
-        <item>Atlantsko standardno vrijeme</item>
-        <item>Istočnoeuropsko vrijeme</item>
-        <item>Kalinjingradsko vrijeme</item>
-        <item>Amazona – Rondônia</item>
-        <item>Brazilija – Pará</item>
-    </string-array>
-    <string-array name="backup_country_names">
-        <item>Sint Maarten</item>
-        <item>Karipski otoci Nizozemske</item>
-        <item>Curaçao</item>
-        <item>Južni Sudan</item>
-    </string-array>
     <string-array name="reminder_methods_labels">
         <item>Obavijest</item>
-        <item>E-pošta</item>
-        <item>SMS</item>
-        <item>Alarm</item>
+        <item>"E-pošta"</item>
+        <item>"SMS"</item>
+        <item>"Alarm"</item>
     </string-array>
+    <integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </integer-array>
     <string-array name="reminder_minutes_labels">
         <item>0 minuta</item>
-        <item>1 minuta</item>
-        <item>5 minuta</item>
-        <item>10 minuta</item>
-        <item>15 minuta</item>
-        <item>20 minuta</item>
-        <item>25 minuta</item>
-        <item>30 minuta</item>
-        <item>45 minuta</item>
-        <item>1 sat</item>
-        <item>2 sata</item>
-        <item>3 sata</item>
-        <item>12 sati</item>
-        <item>24 sata</item>
+        <item>"1 minuta"</item>
+        <item>"5 minuta"</item>
+        <item>"10 minuta"</item>
+        <item>"15 minuta"</item>
+        <item>"20 minuta"</item>
+        <item>"25 minuta"</item>
+        <item>"30 minuta"</item>
+        <item>"45 minuta"</item>
+        <item>"1 sat"</item>
+        <item>"2 sata"</item>
+        <item>"3 sata"</item>
+        <item>"12 sati"</item>
+        <item>"24 sata"</item>
         <item>2 dana</item>
         <item>1 tjedan</item>
     </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </integer-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Ništa</item>
         <item>0 minuta</item>
-        <item>1 minuta</item>
-        <item>5 minuta</item>
-        <item>10 minuta</item>
-        <item>15 minuta</item>
-        <item>20 minuta</item>
-        <item>25 minuta</item>
-        <item>30 minuta</item>
-        <item>45 minuta</item>
-        <item>1 sat</item>
-        <item>2 sata</item>
-        <item>3 sata</item>
-        <item>12 sati</item>
-        <item>24 sata</item>
+        <item>"1 minuta"</item>
+        <item>"5 minuta"</item>
+        <item>"10 minuta"</item>
+        <item>"15 minuta"</item>
+        <item>"20 minuta"</item>
+        <item>"25 minuta"</item>
+        <item>"30 minuta"</item>
+        <item>"45 minuta"</item>
+        <item>"1 sat"</item>
+        <item>"2 sata"</item>
+        <item>"3 sata"</item>
+        <item>"12 sati"</item>
+        <item>"24 sata"</item>
         <item>2 dana</item>
         <item>1 tjedan</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Zadana oznaka zemlje</item>
@@ -80,34 +92,50 @@
         <item>Nedjelja</item>
         <item>Ponedjeljak</item>
     </string-array>
-    <string-array name="availability">
-        <item>Zauzet</item>
-        <item>Dostupan</item>
-        <item>Privremena</item>
+    <string-array name="preferences_week_start_day_values">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
+    <string-array name="availability">
+        <item>Zauzeto</item>
+        <item>"Dostupno"</item>
+        <item>Privremeno</item>
+    </string-array>
+    <integer-array name="availability_values">
+        <item>0</item>
+        <item></item>
+        <item></item>
+    </integer-array>
     <string-array name="visibility">
         <item>Zadano</item>
         <item>Privatno</item>
         <item>Javno</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>prvo</item>
+        <item>prvi</item>
         <item>drugi</item>
-        <item>treće</item>
-        <item>četvrto</item>
-        <item>posljednje</item>
+        <item>treći</item>
+        <item>četvrti</item>
+        <item>posljednji</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Nema odgovora</item>
-        <item>Da</item>
-        <item>Možda</item>
-        <item>Ne</item>
+        <item>"Da"</item>
+        <item>"Možda"</item>
+        <item>"Ne"</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Samo ovaj događaj</item>
         <item>Ovaj i budući događaji</item>
         <item>Svi događaji</item>
     </string-array>
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item></item>
+        <item></item>
+    </integer-array>
     <string-array name="delete_repeating_labels_no_selected">
         <item>Ovaj i budući događaji</item>
         <item>Svi događaji</item>
@@ -125,6 +153,10 @@
     <string-array name="preferences_skip_reminders_labels">
         <item>Samo ako je odbijeno</item>
         <item>Ako je odbijeno ili nema odgovora</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_values">
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="recurrence_freq">
         <item>DNEVNO PONAVLJANJE</item>
@@ -181,10 +213,160 @@
         <item>svake četvrte subote</item>
         <item>svake zadnje subote</item>
     </string-array>
+    <string-array name="tian_gan">
+        <item>I.</item>
+        <item>II.</item>
+        <item>III.</item>
+        <item>IV.</item>
+        <item>V.</item>
+        <item>VI.</item>
+        <item>VII.</item>
+        <item>VIII.</item>
+        <item>IX.</item>
+        <item>X.</item>
+    </string-array>
+    <string-array name="di_zhi">
+        <item>23:00 - 1:00</item>
+        <item>1:00 - 3:00</item>
+        <item>3:00 - 5:00</item>
+        <item>5:00 - 7:00</item>
+        <item>7:00 - 9:00</item>
+        <item>9:00 - 11:00</item>
+        <item>11:00 - 13:00</item>
+        <item>13:00 - 15:00</item>
+        <item>15:00 - 17:00</item>
+        <item>17:00 - 19:00</item>
+        <item>19:00 - 21:00</item>
+        <item>21:00 - 23:00</item>
+    </string-array>
+    <string-array name="jia_zi">
+        <item>Godina Yang Drvenog Štakora (1984)</item>
+        <item>Godina Yin Drvenog Vola (1985)</item>
+        <item>Godina Yang Vatrenog Tigra (1986)</item>
+        <item>Godina Yin Vatrenog Zeca (1987)</item>
+        <item>Godina Yang Zemljanog Zmaja (1988)</item>
+        <item>Godina Yin Zemljane Zmije (1989)</item>
+        <item>Godina Yang Metalnog Konja (1990)</item>
+        <item>Godina Yin Metalne Koze (1991)</item>
+        <item>Godina Yang Vodenog Majmuna (1992)</item>
+        <item>Godina Yin Vodenog Pijetla (1993)</item>
+        <item>Godina Yang Drvenog Psa (1994)</item>
+        <item>Godina Yin Drvene Svinje (1995)</item>
+        <item>Godina Yang Vatrenog Štakora (1996)</item>
+        <item>Godina Yin Vatrenog Vola (1997)</item>
+        <item>Godina Yang Zemljanog Tigra (1998)</item>
+        <item>Godina Yin Zemljanog Zeca (1999)</item>
+        <item>Godina Yang Metalnog Zmaja (2000)</item>
+        <item>Godina Yin Metalne Zmije (2001)</item>
+        <item>Godina Yang Vodenog Konja (2002)</item>
+        <item>Godina Yin Vodene Koze (2003)</item>
+        <item>Godina Yang Drvenog Majmuna (2004)</item>
+        <item>Godina Yin Drvenog Pijetla (2005)</item>
+        <item>Godina Yang Vatrenog Psa (2006)</item>
+        <item>Godina Yin Vatrene Svinje (2007)</item>
+        <item>Godina Yang Zemljanog Štakora (2008)</item>
+        <item>Godina Yin Zemljanog Vola (2009)</item>
+        <item>Godina Yang Metalnog Tigra (2010)</item>
+        <item>Godina Yin Metalnog Zeca (2011)</item>
+        <item>Godina Yang Vodenog Zmaja (2012)</item>
+        <item>Godina Yin Vodene Zmije (2013)</item>
+        <item>Godina Yang Drvenog Konja (2014)</item>
+        <item>Godina Yin Drvene Koze (2015)</item>
+        <item>Godina Yang Vatrenog Majmuna (2016)</item>
+        <item>Godina Yin Vatrenog Pijetla (2017)</item>
+        <item>Godina Yang Zemljanog Psa (2018)</item>
+        <item>Godina Yin Zemljane Svinje (2019)</item>
+        <item>Godina Yang Metalnog Štakora (2020)</item>
+        <item>Godina Yin Metalnog Vola (2021)</item>
+        <item>Godina Yang Vodenog Tigra (2022)</item>
+        <item>Godina Yin Vodenog Zeca (2023)</item>
+        <item>Godina Yang Drvenog Zmaja (2024)</item>
+        <item>Godina Yin Drvene Zmije (2025)</item>
+        <item>Godina Yang Vatrenog Konja (2026)</item>
+        <item>Godina Yin Vatrene Koze (2027)</item>
+        <item>Godina Yang Zemljanog Majmuna (2028)</item>
+        <item>Godina Yin Zemljanog Pijetla (2029)</item>
+        <item>Godina Yang Metalnog Psa (2030)</item>
+        <item>Godina Yin Metalne Svinje (2031)</item>
+        <item>Godina Yang Vodenog Štakora (2032)</item>
+        <item>Godina Yin Vodenog Vola (2033)</item>
+        <item>Godina Yang Drvenog Tigra (2034)</item>
+        <item>Godina Yin Drvenog Zeca (2035)</item>
+        <item>Godina Yang Vatrenog Zmaja (2036)</item>
+        <item>Godina Yin Vatrene Zmije (2037)</item>
+        <item>Godina Yang Zemljanog Konja (2038)</item>
+        <item>Godina Yin Zemljane Koze (2039)</item>
+        <item>Godina Yang Metalnog Majmuna (2040)</item>
+        <item>Godina Yin Metalnog Pijetla (2041)</item>
+        <item>Godina Yang Vodenog Psa (2042)</item>
+        <item>Godina Yin Vodene Svinje (2043)</item>
+    </string-array>
     <string-array name="quick_response_defaults">
-        <item>Kasni samo nekoliko minuta.</item>
-        <item>Budite tamo za oko 10 minuta.</item>
+        <item>Kasnim samo nekoliko minuta.</item>
+        <item>Stižem za oko 10 minuta.</item>
         <item>Samo naprijed, počnite bez mene.</item>
         <item>Žao mi je, ne mogu stići. Moramo promijeniti dogovor.</item>
     </string-array>
-</resources>
+    <string-array name="timezone_rename_ids">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australsko središnje – NT</item>
+        <item>Australsko središnje – SA</item>
+        <item>Australsko istočno – QLD</item>
+        <item>Australsko istočno – NSW</item>
+        <item>Planinsko standardno – Dawson Creek</item>
+        <item>Središnje standardno – Saskatchewan</item>
+        <item>Istočno standardno – Atikokan</item>
+        <item>Atlantsko standardno –  Quebec</item>
+        <item>Havajsko-aleutsko – Havaji</item>
+        <item>Havajsko-aleutsko – Aljaska</item>
+        <item>Pacifičko standardno – Metlakatla</item>
+        <item>Planinsko standardno – Arizona</item>
+        <item>Pacifičko – Baja California</item>
+        <item>Planinsko – Chihuahua</item>
+        <item>Središnje – Tamaulipas</item>
+        <item>Planinsko – Sonora</item>
+        <item>Istočnoafričko vrijeme</item>
+        <item>Atlantsko standardno vrijeme</item>
+        <item>Atlantsko standardno vrijeme</item>
+        <item>Istočnoeuropsko vrijeme</item>
+        <item>Kalinjingradsko vrijeme</item>
+        <item>Amazona – Rondônia</item>
+        <item>Brazilija – Pará</item>
+    </string-array>
+    <string-array name="backup_country_codes">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Karipski otoci Nizozemske</item>
+        <item>Curaçao</item>
+        <item>Južni Sudan</item>
+    </string-array>
+</resources> 

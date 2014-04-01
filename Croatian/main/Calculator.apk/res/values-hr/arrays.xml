@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operators">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>lijeva zagrada</item>
+        <item>desna zagrada</item>
+        <item>faktorijel</item>
+        <item>prirodni logaritam</item>
+        <item>logaritam</item>
+        <item>kvadratni korijen</item>
+        <item>podijeljeno sa</item>
+        <item>pomnoženo sa</item>
+        <item>više</item>
+        <item>manje</item>
+        <item> točka </item>
+        <item>potencija</item>
+        <item>tangens</item>
+        <item>sinus</item>
+        <item>kosinus</item>
+        <item>pi</item>
+        <item>jednako</item>
+    </string-array>
+</resources> 

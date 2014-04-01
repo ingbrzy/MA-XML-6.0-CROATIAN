@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="format_for_exported_note">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Ime</item>
+        <item>Nadimak</item>
+        <item>"Telefon"</item>
+        <item>E-pošta</item>
+        <item>"Organizacija"</item>
+        <item>"IM"</item>
+        <item>SIP Telefon</item>
+        <item>"Rođendan"</item>
+        <item>"Web-lokacija"</item>
+        <item>"Adresa"</item>
+        <item>"Bilješke"</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Maleno</item>
+        <item>Zadano</item>
+        <item>Veliko</item>
+        <item>Super</item>
+    </string-array>
+    <string-array name="count_entries">
+        <item>0</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <array name="count_values">
+    </array>
+</resources> 

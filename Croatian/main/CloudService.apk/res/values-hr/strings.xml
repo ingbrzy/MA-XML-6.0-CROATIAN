@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activate">Aktiviraj</string>
+  <string name="activate_fail_notification_title">Ponovo aktiviraj sinkronizaciju</string>
+  <string name="app_name">Xiaomi sinkronizacija</string>
+  <string name="check_phone_error_title">Usluga sinkronizacije nije omogućena</string>
+  <string name="check_phone_io_error">Pogreška mreže</string>
+  <string name="error_forbidden">Došlo je do problema s vašim računom: Sinkronizacija je onemogućena.</string>
+  <string name="error_not_acceptable">Pogreška poslužitelja: Sinkronizacija je onemogućena.</string>
+  <string name="error_title">Pogreška sinkronizacije</string>
+  <string name="error_unauthorized">Previše pokušaja prijavljivanja: Sinkronizacija je onemogućena.</string>
+  <string name="find_device">Lociraj uređaj</string>
+  <string name="find_device_noise_title">Zvuk lociranja uređaja</string>
+  <string name="find_device_stop_noise">Zaustavi</string>
+  <string name="no_sim">"Nema SIM kartice"</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Nemoj koristiti vezu mobilnih podataka za sinkronizaciju fotografija kontakata.</string>
+  <string name="pref_title_sync_contacts_title">Sinkroniziraj kontakte</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Prikaži fotografije preko Wi-Fi-ja</string>
+  <string name="send_sms_for_sync_notice">Aktivacijska tekstualna poruka će automatski biti poslana (vrijede uobičajene tarife).</string>
+  <string name="send_sms_for_sync_title">Usluga sinkronizacije nije aktivirana</string>
+  <string name="sim_changed_reactivate_int_notice">Trenutna SIM kartica je deaktivirana. Aktivacijska tekstualna poruka će automatski biti poslana (vrijede međunarodne tarife).</string>
+  <string name="sim_changed_reactivate_notice">Trenutna SIM kartica je deaktivirana. Aktivacijska tekstualna poruka će automatski biti poslana (vrijede uobičajene tarife).</string>
+  <string name="sim_in_airplane_mode">Morate onemogućiti način rada u zrakoplovu.</string>
+  <string name="sim_locked">"SIM kartica je zaključana"</string>
+  <string name="sim_not_ready">Sim kartica u upotrebi. Pokušajte ponovo kasnije."</string>
+  <string name="sim_unavailable">"SD kartica nije dostupna"</string>
+  <string name="sub_sync_item_sms_summary">Nemoj koristiti vezu mobilnih podataka za sinkronizaciju multimedijskih poruka.</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Sinkronizacija MMS samo preko Wi-Fi-ja</string>
+  <string name="sync_item_sms_summary">Uključi nakon što su poruke sinkronizirane</string>
+  <string name="sync_item_sms_title">Sinkroniziraj tekstualne poruke</string>
+  <string name="xiaomi_account_type"></string>
+</resources> 
