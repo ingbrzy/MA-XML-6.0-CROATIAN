@@ -1,4 +1,4 @@
-?<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"Nije moguć pristup SD kartici."</string>
   <string name="accessibility_check_box">"Potvrdni okvir %1$s"</string>
