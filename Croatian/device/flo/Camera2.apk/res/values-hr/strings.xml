@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+?<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"Nije moguć pristup SD kartici."</string>
   <string name="accessibility_check_box">"Potvrdni okvir %1$s"</string>
@@ -87,7 +87,6 @@
   <string name="pref_camera_countdown_label_one">"1 SEKUNDA"</string>
   <string name="pref_camera_countdown_label_ten">"10 SEKUNDI"</string>
   <string name="pref_camera_countdown_label_three">"3 SEKUNDE"</string>
-  <string name="pref_camera_flashmode_default">automatski</string>
   <string name="pref_camera_flashmode_entry_auto">"Automatski"</string>
   <string name="pref_camera_flashmode_entry_off">Isključeno</string>
   <string name="pref_camera_flashmode_entry_on">Uključeno</string>
@@ -105,7 +104,6 @@
   <string name="pref_camera_focusmode_label_macro">"MAKRO"</string>
   <string name="pref_camera_focusmode_title">"Način fokusa"</string>
   <string name="pref_camera_hdr_label">"HDR"</string>
-  <string name="pref_camera_id_default">0</string>
   <string name="pref_camera_id_entry_back">Prednji</string>
   <string name="pref_camera_id_entry_front">Stražnji</string>
   <string name="pref_camera_id_label_back">"PREDNJI FOTOAPARAT"</string>
@@ -125,9 +123,7 @@
   <string name="pref_camera_picturesize_entry_qvga">"QVGA"</string>
   <string name="pref_camera_picturesize_entry_vga">"VGA"</string>
   <string name="pref_camera_picturesize_title">"Veličina slike"</string>
-  <string name="pref_camera_recordlocation_default">ništa</string>
   <string name="pref_camera_recordlocation_title">"Lokacija pohranjivanja"</string>
-  <string name="pref_camera_scenemode_default">automatski</string>
   <string name="pref_camera_scenemode_entry_action">"Radnja"</string>
   <string name="pref_camera_scenemode_entry_auto">"Automatski"</string>
   <string name="pref_camera_scenemode_entry_hdr">"HDR"</string>
@@ -146,11 +142,8 @@
   <string name="pref_camera_scenemode_label_sunset">"ZALAZAK SUNCA"</string>
   <string name="pref_camera_scenemode_title">"Način scene"</string>
   <string name="pref_camera_settings_category">"Postavke fotoaparata"</string>
-  <string name="pref_camera_timer_default"></string>
   <string name="pref_camera_timer_sound_title">"Zvuk pri odbrojavanju"</string>
   <string name="pref_camera_timer_title">"Odbrojavanje unazad"</string>
-  <string name="pref_camera_video_flashmode_default">isključeno</string>
-  <string name="pref_camera_whitebalance_default">automatski</string>
   <string name="pref_camera_whitebalance_entry_auto">"Automatski"</string>
   <string name="pref_camera_whitebalance_entry_cloudy">"Oblačno"</string>
   <string name="pref_camera_whitebalance_entry_daylight">"Dnevno svjetlo"</string>
@@ -163,12 +156,9 @@
   <string name="pref_camera_whitebalance_label_fluorescent">"FLUORESCENTNO"</string>
   <string name="pref_camera_whitebalance_label_incandescent">"SVJETLOSNI IZVOR SA ŽARNOM NITI"</string>
   <string name="pref_camera_whitebalance_title">"Balans bijele boje"</string>
-  <string name="pref_exposure_default"></string>
   <string name="pref_exposure_label">"EKSPOZICIJA"</string>
   <string name="pref_exposure_title">"Ekspozicija"</string>
-  <string name="pref_video_effect_default">ništa</string>
   <string name="pref_video_effect_title">"Efekti"</string>
-  <string name="pref_video_quality_default">5</string>
   <string name="pref_video_quality_entry_1080p">HD 1080p</string>
   <string name="pref_video_quality_entry_480p">SD 480p</string>
   <string name="pref_video_quality_entry_720p">HD 720p</string>
@@ -214,7 +204,6 @@
   <string name="pref_video_time_lapse_frame_interval_90000">"1,5 minuta"</string>
   <string name="pref_video_time_lapse_frame_interval_900000">"15 minuta"</string>
   <string name="pref_video_time_lapse_frame_interval_9000000">"2,5 sati"</string>
-  <string name="pref_video_time_lapse_frame_interval_default"></string>
   <string name="pref_video_time_lapse_frame_interval_off">Isključeno</string>
   <string name="pref_video_time_lapse_frame_interval_title">"Vremenski odmak"</string>
   <string name="preparing_sd">"Pripremanje SD kartice…"</string>
@@ -232,9 +221,7 @@
   <string name="set_time_interval">"Postavljanje vrem. intervala"</string>
   <string name="set_time_interval_help">"Značajka vremenskog odmaka je isključena. Uključite ju da biste postavili vremenski interval."</string>
   <string name="setting_off">Isključeno</string>
-  <string name="setting_off_value">isključeno</string>
   <string name="setting_on">Uključeno</string>
-  <string name="setting_on_value">uključeno</string>
   <string name="setting_wallpaper">"Postavljanje pozadinske slike"</string>
   <string name="share">"Podijeli"</string>
   <string name="share_as_photo">"Dijeli kao fotografiju"</string>
