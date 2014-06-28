@@ -4,9 +4,9 @@
   <string name="Cache3">C3</string>
   <string name="Cache4">C4</string>
   <string name="CachePhoto">C1</string>
-  <string name="Close">Close</string>
-  <string name="Connect">Connect</string>
-  <string name="Disconnect">Disconnect</string>
+  <string name="Close">Zatvori</string>
+  <string name="Connect">Poveži</string>
+  <string name="Disconnect">Prekin vezu</string>
   <string name="DisplayCachedPhoto2">D2</string>
   <string name="DisplayCachedPhoto3">D3</string>
   <string name="DisplayCachedPhoto4">D4</string>
@@ -18,11 +18,11 @@
   <string name="GetVolume">GetVolume</string>
   <string name="NSDClose">NSDClose</string>
   <string name="NSDOpen">NSDOpen</string>
-  <string name="Open">Open</string>
+  <string name="Open">Otvori</string>
   <string name="PlayPause">PlayPause</string>
   <string name="PlayVideo">PlayVideo</string>
   <string name="SetPosition">SetPosition</string>
-  <string name="Slideshow">Slideshow</string>
+  <string name="Slideshow">Dijaprojekcija</string>
   <string name="StartSlideshow">StartSlideshow</string>
   <string name="StopDisplayPhoto">StopDisplayPhoto</string>
   <string name="StopVideo">StopVideo</string>
@@ -32,7 +32,7 @@
   <string name="VolInc">Vol+</string>
   <string name="ZoomIn">ZoomIn</string>
   <string name="ZoomOut">ZoomOut</string>
-  <string name="action_settings">Settings</string>
+  <string name="action_settings">Postavke</string>
   <string name="app_name">MiLink</string>
   <string name="hello_world">Hello world!</string>
 </resources>

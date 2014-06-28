@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Odgođeno za %d min.</item>
+        <item quantity="one">Odgođeno za 1 minutu.</item>
+    </plurals>
     <plurals name="snooze_duration">
         <item quantity="other">Broj minuta: %d</item>
         <item quantity="one">"1 minuta"</item>

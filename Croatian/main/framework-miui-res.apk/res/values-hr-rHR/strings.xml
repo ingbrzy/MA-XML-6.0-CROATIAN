@@ -10,6 +10,8 @@
   <string name="armed_forces_day">Dan oružanih snaga (Kina)</string>
   <string name="autumn_begins">Početak jeseni (Kina)</string>
   <string name="autumn_equinox">Jesenska ravnodnevnica (Kina)</string>
+  <string name="call_record_or">ili</string>
+  <string name="call_record_sample_prefix_miui">Glas</string>
   <string name="childrens_day">Dan djece (Kina)</string>
   <string name="chinese_youth_day">Dan mladih (Kina)</string>
   <string name="christmas_day">Božić</string>
@@ -18,16 +20,12 @@
   <string name="copy">kopiraj</string>
   <string name="cut">izreži</string>
   <string name="day_following_good_friday">Velika subota</string>
-  <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
-  <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
-  <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
-  <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
-  <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
   <string name="device_hongmi">Hongmi telefon</string>
   <string name="device_xiaomi">Xiaomi</string>
   <string name="double_seventh_day">Festival zaljubljenih (Kina)</string>
   <string name="easter">Uskrs</string>
   <string name="first_back_long_press_message">Dugi pritisak na Natrag će zaustaviti trenutni proces i njegove pozadinske usluge. Za omogućavanje ove funkcije, idite na Postavke &gt; Sustav &gt; Gumbi</string>
+  <string name="fm_record_smaple_prefix_miui">FM snimanje</string>
   <string name="fools_day">Prvi travnja</string>
   <string name="force_exit_message">Zatvoreno: \"%1$s</string>
   <string name="global_actions_airplane_mode">"Način rada u zrakoplovu"</string>
@@ -118,6 +116,7 @@
   <string name="tw_childrens_day">Dan djece (Tajvan)</string>
   <string name="tw_youth_day">Dan mladih (Tajvan)</string>
   <string name="united_nations_day">Dan ujedinjenih naroda</string>
+  <string name="unknown_caller">Nepoznati poziv</string>
   <string name="valentines_day">Valentinovo</string>
   <string name="vernal_equinox">Proljetna ravnodnevica (Kina)</string>
   <string name="white_dews">Dan bijele rose (Kina)</string>

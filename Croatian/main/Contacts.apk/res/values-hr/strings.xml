@@ -43,7 +43,8 @@
   <string name="autumn_begins">Početak jeseni (Kina)</string>
   <string name="autumn_equinox">Jesenska ravnodnevnica (Kina)</string>
   <string name="batch_delete">Izbriši seriju</string>
-  <string name="batch_delete_msg">Izbrisati %d kontakata? Podaci o kontaktima pohranjeni u vašem MiOblak računu će također biti izbrisani.</string>
+  <string name="batch_delete_msg">Izbrisati %d kontakata? 
+Podaci o kontaktima pohranjeni u vašem MiOblak računu će također biti izbrisani.</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth veza je prekinuta</string>
   <string name="blurbJoinContactDataWith">Odaberite kontakt koji želite združiti s %s:</string>
   <string name="btn_delete_multi_contacts">Izbriši %d</string>
@@ -266,7 +267,8 @@
   <string name="device_bluetooth_title">Prijenos kontakata</string>
   <string name="device_brand_title">Odaberi marku</string>
   <string name="device_import_account_dialog_title">"Odaberi račun"</string>
-  <string name="device_import_account_dialog_title_suffix">" (pronađen je sljedeći broj kontakata: %1$s)"</string>
+  <string name="device_import_account_dialog_title_suffix">"
+(pronađen je sljedeći broj kontakata: %1$s)"</string>
   <string name="device_import_done_toast">Uvezeno kontakata: %1$d</string>
   <string name="device_import_failed_message">Uvoz nije uspio</string>
   <string name="device_import_local_account">Lokalni račun</string>
@@ -350,7 +352,8 @@
   <string name="export_to_sim">Izvoz na SIM karticu</string>
   <string name="export_to_sim_title">Izvoz na SIM karticu…</string>
   <string name="export_vcard_description">Izvezi vCard u unutarnju pohranu uređaja</string>
-  <string name="exporting_contact_failed_message">"Podaci o kontaktu nisu izvezeni. Razlog: \"%s\""</string>
+  <string name="exporting_contact_failed_message">"Podaci o kontaktu nisu izvezeni. 
+Razlog: \"%s\""</string>
   <string name="exporting_contact_failed_title">Izvoz nije bio moguć</string>
   <string name="exporting_contact_list_message">"Vaši podaci o kontaktu izvoze se u datoteku %s."</string>
   <string name="exporting_contact_list_progress" formatted="false">%s od %s kontakata</string>
@@ -624,7 +627,9 @@
   <string name="noGroups">Nema grupa.</string>
   <string name="noMatchingContacts">Nema odgovarajućih kontakata.</string>
   <string name="noRecentContacts">"Nema nedavnih kontakata"</string>
-  <string name="no_account_prompt">Aplikacija Ljudi radi bolje s Google računom.• Pristupite mu iz bilo kojeg web-preglednika.• Stvorite sigurnosnu kopiju svojih kontakata.</string>
+  <string name="no_account_prompt">Aplikacija Ljudi radi bolje s Google računom.
+• Pristupite mu iz bilo kojeg web-preglednika.
+• Stvorite sigurnosnu kopiju svojih kontakata.</string>
   <string name="no_contact_details">Nema dodatnih informacija o ovom kontaktu.</string>
   <string name="no_contact_in_other_phone">"Nema kontakata"</string>
   <string name="no_contacts_dialog_message">Vaši kontakti mogu biti pohranjeni na SIM kartici. Pokušajte uvoz kontakata sa vaše SIM kartice u unutarnju pohranu uređaja te zatim pokušajte ponovo.</string>
@@ -776,9 +781,11 @@
   <string name="remind_btn_sync_now">Sinkroniziraj</string>
   <string name="removePhoto">Ukloni fotografiju</string>
   <string name="remove_blacklist">Ukloni blokiranje</string>
-  <string name="remove_duplicate">MIUI će vam pomoći u pronalaženju i združivanju dvostrukih kontakata. Dotaknite ikonu Združi u donjem desnom uglu za početak.</string>
+  <string name="remove_duplicate">MIUI će vam pomoći u pronalaženju i združivanju dvostrukih kontakata. 
+Dotaknite ikonu Združi u donjem desnom uglu za početak.</string>
   <string name="restore_nickname">Obnovi</string>
-  <string name="ret_sign">" "</string>
+  <string name="ret_sign">" 
+"</string>
   <string name="retrocession_day">Dan povratka Tajvana pod kinesku vlast (Kina)</string>
   <string name="returnCall">"Uzvrati poziv"</string>
   <string name="ringLabelsGroup">"Melodija zvona"</string>
@@ -939,7 +946,10 @@
   <string name="unknown_caller">Nepoznati broj</string>
   <string name="unknown_contact_name">Nepoznati kontakt</string>
   <string name="upgrade_in_progress">Popis kontakata se ažurira.</string>
-  <string name="upgrade_out_of_memory">Kontakti se trenutno nadograđuju. Postupak nadogradnje zahtijeva otprilike %s MB unutarnje pohrane. Odaberite jednu od sljedećih opcija:</string>
+  <string name="upgrade_out_of_memory">Kontakti se trenutno nadograđuju. 
+Postupak nadogradnje zahtijeva otprilike %s MB unutarnje pohrane. 
+
+Odaberite jednu od sljedećih opcija:</string>
   <string name="upgrade_out_of_memory_retry">Ponovo pokušaj nadogradnju</string>
   <string name="upgrade_out_of_memory_uninstall">Deinstaliraj neke aplikacije</string>
   <string name="use_photo_as_primary">Upotrijebi ovu fotografiju</string>

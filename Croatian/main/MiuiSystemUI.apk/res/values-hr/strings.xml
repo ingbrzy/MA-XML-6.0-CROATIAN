@@ -54,6 +54,7 @@
   <string name="battery_low_why">Potrošnja baterije</string>
   <string name="bluetooth_tethered">"Bluetooth dijeljenje veze"</string>
   <string name="call_status_dialing">"Biranje broja"</string>
+  <string name="call_status_ringing">Zvonjava</string>
   <string name="camera_key_action_app_title">"Otvori aplikaciju"</string>
   <string name="camera_key_action_category_title">Upotrijebi ako aplikacija fotoaparata nije otvorena</string>
   <string name="camera_key_action_none_title">Nema radnje</string>
@@ -96,7 +97,6 @@
   <string name="ext_media_safe_unmount_notification_title">USB pohrana se može ukloniti na siguran način</string>
   <string name="ext_media_unmountable_notification_message">USB pohrana je oštećena. Možda ćete je morati iznova formatirati.</string>
   <string name="ext_media_unmountable_notification_title">Oštećena USB pohrana</string>
-  <string name="flash_device"></string>
   <string name="gps_notification_found_text">Lokaciju postavio GPS</string>
   <string name="gps_notification_searching_text">Traženje GPS-a</string>
   <string name="headset_custom">"Prilagodi"</string>
@@ -130,6 +130,7 @@
   <string name="notification_otg_trackball_out">Mišji trbuh nije povezan</string>
   <string name="notification_otg_unknow_in">OTG uređaj je povezan</string>
   <string name="notification_otg_unknow_out">OTG uređaj nije povezan</string>
+  <string name="reject_call">Odbijanje poziva</string>
   <string name="return_to_incall_screen">Vrati se na poziv</string>
   <string name="screen_button_disabled_message">Navigacijski gumbi su onemogućeni. Za ponovno omogućavanje, istovremeno pritisnite tipke Početna stranica i Napajanje.</string>
   <string name="screen_button_enabled_message">Navigacijski gumbi su omogućeni.</string>
@@ -146,7 +147,8 @@
   <string name="settings_toggle_position_divider_page">Broj aktivnih prekidača iznad ove trake: %1$d</string>
   <string name="settings_toggle_position_reset">Poništi prekidače</string>
   <string name="share">Podijeli</string>
-  <string name="status_bar_date_format"></string>
+    <string name="status_bar_date_format">"EEEE
+d. MMMM yyyy"</string>
   <string name="status_bar_date_formatter"></string>
   <string name="status_bar_network_name_separator"></string>
   <string name="status_bar_no_recent_apps">"Nema nedavnih aplikacija"</string>
@@ -222,7 +224,8 @@
   <string name="usb_accessory_permission_prompt">Dopustiti aplikaciji %1$s pristup USB dodatku?</string>
   <string name="usb_accessory_uri_prompt">Niti jedna od instaliranih aplikacija ne radi s ovim USB dodatkom. Saznajte više o ovom dodatku na %1$s</string>
   <string name="usb_debugging_always">Dopusti uvijek sa ovog računala</string>
-  <string name="usb_debugging_message">NSA otisak ključa za ovo računalo je: %1$s</string>
+  <string name="usb_debugging_message">NSA otisak ključa za ovo računalo je:
+ %1$s</string>
   <string name="usb_debugging_title">Omogućiti rješavanje programske pogreške na USB-u?</string>
   <string name="usb_device_confirm_prompt">Otvoriti %1$s kada je uključen ovaj USB uređaj?</string>
   <string name="usb_device_permission_prompt">Dopustiti aplikaciji %1$s pristup USB uređaju?</string>

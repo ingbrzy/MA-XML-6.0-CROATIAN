@@ -48,7 +48,9 @@
   <string name="copy_db">Pošalji bazu podataka</string>
   <string name="copy_email">Kopiranje e-adrese</string>
   <string name="copy_number">Kopiranje telefonskog broja</string>
-  <string name="create_an_account_desc">Kalendar radi bolje s Google računom.• Pristupite mu iz bilo kojeg web-preglednika.• Stvorite sigurnosnu kopiju svojih događaja.</string>
+  <string name="create_an_account_desc">Kalendar radi bolje s Google računom.
+• Pristupite mu iz bilo kojeg web-preglednika.
+• Stvorite sigurnosnu kopiju svojih događaja.</string>
   <string name="create_event_dialog_save">"Spremi"</string>
   <string name="creating_event">Događaj je izrađen.</string>
   <string name="creating_event_with_guest">Pozivnice će biti poslane.</string>
@@ -79,6 +81,7 @@
   <string name="edit_event_to_label">Do</string>
   <string name="edit_label">"Uredi"</string>
   <string name="email_guests_label">Slanje e-poruke gostima</string>
+  <string name="email_guests_label_title">E-pošta</string>
   <string name="email_organizer_label">Organizator e-poruka</string>
   <string name="email_picker_label">Obavijesti e-poštom</string>
   <string name="email_subject_prefix">"Odgovor: "</string>

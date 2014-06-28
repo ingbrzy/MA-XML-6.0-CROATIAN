@@ -18,7 +18,7 @@
   <string name="app_name">"Videozapis"</string>
   <string name="area_colon">"Zemlja:"</string>
   <string name="authenticated_failed">"Prijava nije uspjela"</string>
-  <string name="authenticating">&lt;CDATA&gt;Provjera…&lt;/CDATA&gt;</string>
+    <string name="authenticating"><CDATA>Provjera </CDATA></string>
   <string name="authenticating_manually">Autentifikacija nije uspjela</string>
   <string name="auto_play">Automatska reprodukcija kad je spremno</string>
   <string name="auto_play_summary">Reproduciraj videozapis kad završi međupohrana ili preuzimanje</string>
@@ -33,7 +33,11 @@
   <string name="channel_all_empty_hint">"Nema videozapisa"</string>
   <string name="channel_choice_empty_hint">"Nema popularnih videozapisa"</string>
   <string name="choice">Popularno</string>
-  <string name="clear_cache">Očisti predmemoriju</string>
+  <string name="clarity_high">Visoka jasnoća</string>
+  <string name="clarity_standard">Standardna jasnoća</string>
+  <string name="clarity_supper">Super jasnoća</string>
+  <string name="clarity_unknown">Nepoznata jasnoća</string>
+  <string name="clear_cache">Izbriši memoriju slika</string>
   <string name="clear_cache_summary">Izbriši sadržaj koji je predmemorirala aplikacije za repr. videozapisa</string>
   <string name="comment">Komentari</string>
   <string name="comment_count_less_tip">Morate unijeti barem ovoliko znakova: %d</string>
@@ -180,6 +184,7 @@
   <string name="top_status_online_media">Mrežno</string>
   <string name="type_colon">Žanr</string>
   <string name="unfavorite">Ukloni zvjezdicu</string>
+  <string name="unknown_source">Nepoznat izvor</string>
   <string name="update">Ažurirano</string>
   <string name="update_to_count_ji">Ažurirano do Ep. %d</string>
   <string name="use_cellular_network">Koristi mobilnu mrežu</string>
@@ -193,6 +198,8 @@
   <string name="video_info_resolution_label">Rezolucija:</string>
   <string name="video_info_video_coding_label">Format kodiranja video zapisa:</string>
   <string name="vp_VideoView_error_button">U redu</string>
+  <string name="vp_error_get_play_url_back_to_continue">Dobivanje URL-a uspjelo.</string>
+  <string name="vp_select_source">Odaberite izvor</string>
   <string name="vp_VideoView_error_network_not_available">Mreža nije dostupna</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Nažalost, ovaj videozapis nije moguće prikazati na vašem uređaju</string>
   <string name="vp_VideoView_error_text_unknown">Nažalost, format videozapisa nije podržan. </string>

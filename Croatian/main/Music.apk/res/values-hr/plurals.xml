@@ -8,4 +8,12 @@
         <item quantity="other">"Broj pjesama: %d"</item>
         <item quantity="one">%d pjesma</item>
     </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d pjesama dodano na popis pjesama</item>
+        <item quantity="one">1 pjesma dodana na popis</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d pjesama uklonjeno s popisa.</item>
+         <item quantity="one">1 pjesma uklonjena iz favorita.</item>
+    </plurals>
 </resources> 

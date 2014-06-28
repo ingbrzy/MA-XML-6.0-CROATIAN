@@ -13,6 +13,12 @@
   <string name="debug_tool_email_subject">Baza podataka kalendara u privitku</string>
   <string name="debug_tool_message">Spremate se 1) napraviti kopiju baze podataka kalendara na SD karticu/USB pohranu koju može čitati bilo koja aplikacija i 2) poslati je e-poštom. Ne zaboravite izbrisati kopiju čim ju uspješno kopirate s uređaja ili čim je e-poruka primljena."</string>
   <string name="debug_tool_start_button">"Pokreni"</string>
+  <string name="holiday_data_no_network">Nema mreže, pokušajte ponovno kasnije</string>
+  <string name="holiday_data_update_failed">Provjerite za pogreške ažuriranja i pokušajte ponovno kasnije.</string>
+  <string name="holiday_data_update_succeed">Provjerite završena ažuriranja</string>
+  <string name="holiday_data_updating">Ažuriranja...</string>
+  <string name="holiday_update_summary">Kliknite provjeri ažuriranja</string>
+  <string name="holiday_update_title">Podaci radnih dana trebaju povezivanje na mrežu i ažuriranja</string>
   <string name="provider_label">"Kalendar"</string>
   <string name="upgrade_msg">Nadogradnja baze podataka Kalendara.</string>
 </resources> 
