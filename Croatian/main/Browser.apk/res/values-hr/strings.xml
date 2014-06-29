@@ -360,7 +360,6 @@
   <string name="pref_content_search_engine">Postavite tražilicu za naslovnu traku</string>
   <string name="pref_content_search_engine_summary">Odaberite tražilicu</string>
   <string name="pref_content_title">Sadržaj stranice</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Pretraživanje rezultata predučitavanja</string>
   <string name="pref_data_preload_summary">Dopustiti pregledniku predučitavanje rezultata pretraživanja velike sigurnosti u pozadini</string>
   <string name="pref_data_preload_title">Pretraživanje rezultata predučitavanja</string>
@@ -409,7 +408,6 @@
   <string name="pref_lab_quick_controls">Brze kontrole</string>
   <string name="pref_lab_quick_controls_summary">Klizite palcem s lijevog ili desnog ruba za otvaranje brze kontrole i skrivanje aplikacije i URL-barova</string>
   <string name="pref_lab_title">Labs</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_dialogtitle">Predučitavanje web stranica</string>
   <string name="pref_link_prefetch_summary">Dopustiti pregledniku predučitavanje povezanih web stranica u pozadini</string>
   <string name="pref_link_prefetch_title">Predučitavanje web stranica</string>
