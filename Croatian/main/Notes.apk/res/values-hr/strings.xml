@@ -69,6 +69,7 @@
   <string name="pref_title_font_size">Veličina fonta</string>
   <string name="pref_title_note_style">Stil bilješke</string>
   <string name="preferences_title">Postavke</string>
+  <string name="redo">Ponovi</string>
   <string name="search">Bilješke</string>
   <string name="search_hint">Pretraži bilješke</string>
   <string name="search_label">Pretraživanje bilješki</string>
@@ -80,6 +81,7 @@
   <string name="toast_message_add_image_fail">Dodavanje slike nije uspjelo</string>
   <string name="toast_reach_text_limit_attachment">Nije moguće dodati novi privitak jer je bilješka predugačka</string>
   <string name="toast_reach_text_limit_truncate">Bilješka je predugačka. Dio teksta je odsječen sa kraja bilješke radi prilagođavanja.</string>
+  <string name="undo">Poništi</string>
   <string name="widget_havenot_content">Nema povezanih bilješki. Dodirnite za kreiranje povezane bilješke. Za promjenu veličine, zadržite i povucite rub.</string>
   <string name="widget_under_visit_mode">Nije moguće pregledavanje bilješki u Gost načinu</string>
 </resources> 
