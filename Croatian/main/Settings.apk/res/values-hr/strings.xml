@@ -250,7 +250,6 @@
   <string name="battery_desc_bluetooth">Baterija iskorištena upotrebom značajke Bluetooth</string>
   <string name="battery_desc_display">Baterija iskorištena za zaslon i pozadinsko svjetlo</string>
   <string name="battery_desc_radio">Baterija iskorištena upotrebom telefonskog radio prijemnika</string>
-  <string name="battery_desc_standby">Baterija iskorištena kad je uređaj u mirovanju</string>
   <string name="battery_desc_standby">Baterija iskorištena u stanju pripravnosti</string>
   <string name="battery_desc_users">Baterija koju je iskoristio korisnik</string>
   <string name="battery_desc_voice">Baterija iskorištena uslugom glasovnog poziva</string>
