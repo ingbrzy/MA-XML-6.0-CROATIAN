@@ -152,7 +152,7 @@
     <string name="resource_my">Lokalno</string>
     <string name="resource_no_result">Nema rezultata</string>
     <string name="resource_notification_default">Obavijesti</string>
-    <string name="resource_on_trial">Pokušavam: %1$s</string>
+    <string name="resource_ok">U redu</string>
     <string name="resource_online">Mrežno %1$s</string>
     <string name="resource_pack_confirm">Već ste kupili  %1$d stavke, ali trenutna cijena je još uvijek bolja nego pojedinačna kupnja stavaka, želite nastaviti?</string>
     <string name="resource_pack_discount_info">Uštedite %1$s!</string>
