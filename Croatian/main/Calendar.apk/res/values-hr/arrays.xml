@@ -6,12 +6,6 @@
         <item>"SMS"</item>
         <item>"Alarm"</item>
     </string-array>
-    <integer-array name="reminder_methods_values">
-        <item>1</item>
-        <item></item>
-        <item></item>
-        <item></item>
-    </integer-array>
     <string-array name="reminder_minutes_labels">
         <item>0 minuta</item>
         <item>"1 minuta"</item>
@@ -30,24 +24,6 @@
         <item>2 dana</item>
         <item>1 tjedan</item>
     </string-array>
-    <integer-array name="reminder_minutes_values">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-    </integer-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Ništa</item>
         <item>0 minuta</item>
@@ -67,47 +43,17 @@
         <item>2 dana</item>
         <item>1 tjedan</item>
     </string-array>
-    <string-array name="preferences_default_reminder_values">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Zadana oznaka zemlje</item>
         <item>Subota</item>
         <item>Nedjelja</item>
         <item>Ponedjeljak</item>
     </string-array>
-    <string-array name="preferences_week_start_day_values">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-    </string-array>
     <string-array name="availability">
         <item>Zauzeto</item>
         <item>"Dostupno"</item>
         <item>Privremeno</item>
     </string-array>
-    <integer-array name="availability_values">
-        <item>0</item>
-        <item></item>
-        <item></item>
-    </integer-array>
     <string-array name="visibility">
         <item>Zadano</item>
         <item>Privatno</item>
@@ -131,11 +77,6 @@
         <item>Ovaj i budući događaji</item>
         <item>Svi događaji</item>
     </string-array>
-    <integer-array name="delete_repeating_values">
-        <item>0</item>
-        <item></item>
-        <item></item>
-    </integer-array>
     <string-array name="delete_repeating_labels_no_selected">
         <item>Ovaj i budući događaji</item>
         <item>Svi događaji</item>
@@ -153,10 +94,6 @@
     <string-array name="preferences_skip_reminders_labels">
         <item>Samo ako je odbijeno</item>
         <item>Ako je odbijeno ili nema odgovora</item>
-    </string-array>
-    <string-array name="preferences_skip_reminders_values">
-        <item></item>
-        <item></item>
     </string-array>
     <string-array name="recurrence_freq">
         <item>DNEVNO PONAVLJANJE</item>
@@ -307,31 +244,6 @@
         <item>Samo naprijed, počnite bez mene.</item>
         <item>Žao mi je, ne mogu stići. Moramo promijeniti dogovor.</item>
     </string-array>
-    <string-array name="timezone_rename_ids">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-    </string-array>
     <string-array name="timezone_rename_labels">
         <item>Australsko središnje – NT</item>
         <item>Australsko središnje – SA</item>
@@ -356,12 +268,6 @@
         <item>Kalinjingradsko vrijeme</item>
         <item>Amazona – Rondônia</item>
         <item>Brazilija – Pará</item>
-    </string-array>
-    <string-array name="backup_country_codes">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
     </string-array>
     <string-array name="backup_country_names">
         <item>Sint Maarten</item>
