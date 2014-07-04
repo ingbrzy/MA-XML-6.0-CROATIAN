@@ -4,7 +4,7 @@
   <string name="calendar_info">Informacije o kalendaru</string>
   <string name="calendar_info_error">Pogreška</string>
   <string name="calendar_info_events">Broj događaja: %d</string>
-  <string name="calendar_info_events_dirty">Broj događaja: %d, nespremljeno: %2$d</string>
+  <string name="calendar_info_events_dirty">Broj događaja: %1$d, nespremljeno: %2$d</string>
   <string name="calendar_info_no_calendars">Nema kalendara</string>
   <string name="calendar_storage">Pohrana kalendara</string>
   <string name="debug_tool_delete_button">"Izbriši sada"</string>
