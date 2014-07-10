@@ -1488,4 +1488,23 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
     <string name="webviewchromium_low_memory_error">Prethodna operacija nije izvršena jer nema dovoljno memorije</string>
     <string name="webviewchromium_opening_file_error">Odabrana datoteka nije otvorena</string>
     <string name="webviewchromium_private_browsing_warning">Ta funkcija nije podržana na ovoj verziji Androida.</string>
+    <string name="edp_brightness_limited">Ograničeno osvjetljenje</string>
+    <string name="edp_camera_flash_limited">Ograničena Bljeskalica</string>
+    <string name="edp_volume_limited">Ograničena glasnoća</string>
+    <string name="global_action_sleep">Spavanje</string>
+    <string name="global_actions_miracast_connection_failed_status">Povezivanje nje uspjelo.</string>
+    <string name="global_actions_miracast_connection_progress_status">Povezivanje na uređaj...</string>
+    <string name="global_actions_miracast_mode_airplane_on_status">Nije dostupan jer način rada u zrakoplovu aktivan</string>
+    <string name="global_actions_miracast_mode_cancel_connection_status">Otkazivanje povezivanja</string>
+    <string name="global_actions_miracast_mode_off_status_many_paired">Povezivanje na posljednji spojeni uređaj</string>
+    <string name="global_actions_miracast_mode_off_status_no_paired">Povezivanje na uređaj</string>
+    <string name="global_actions_miracast_mode_off_status_single_paired">"Povezivanje na "</string>
+    <string name="global_actions_miracast_mode_on_status">Zatvori</string>
+    <string name="global_actions_miracast_mode_pc2thor_on_status">Nedostupan zbog PC streaminga na SHIELD</string>
+    <string name="global_actions_miracast_mode_wifi_off_status">Nije dostupan jer nije aktivna WLAN mreža</string>
+    <string name="global_actions_miracast_sink_not_found_status">Nije moguće pronaći uređaj.</string>
+    <string name="global_actions_miracast_sink_search_status">Pretraživanje...</string>
+    <string name="global_actions_toggle_miracast_mode">Miracast bežični zaslon</string>
+    <string name="p2p_wifi_frequency_conflict_message">WLAN Izravno povezivanje će biti prekinuto. Želite li nastaviti?</string>
+    <string name="permdesc_nvidiaCPUPower">Omogućuje aplikaciji promjenu parametara NVIDA Tegra CPU. Može povećati potrošnju baterije.</string>
 </resources>
