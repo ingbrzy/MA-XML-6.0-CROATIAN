@@ -11,29 +11,17 @@
   <string name="cit_accelermeter_sensor_check_summary">Zaslon će prikazati tri smjera ubrzanja  X, Y, Z 
 (Napomena: Kad je telefon preokrenut,vrijednosti će se promijeniti na temelju orijentacije)</string>
   <string name="cit_accelermeter_sensor_check_title">Testiranje ubrzanja</string>
-  <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje stražnjeg zvučnika mikrofona</string>
-  <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnog zvučnika mikrofona</string>
-  <string name="cit_audio_lb_phonecall_title">Imitacija poziva</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">"Testiranje stražnjeg zvučnika mikrofona. 
+  <string name="cit_audio_loopback_check_one_title">Testiranje lijevog zvučnika glavnog mikrofona</string>
+  <string name="cit_audio_loopback_check_summary_first">"Testiranje lijevog zvučnika glavnog mikrofona.
 
-Okrenite telefon, pričajte u stražnji mikrofon, trebali biste čuti glas u zvučniku"</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Testiranje glavnog zvučnika mikrofona.
 
-Držite telefon kao da razgovarate, pričajte u glavni mikrofon, trebali biste čuti glas iz prijemnika"</string>
-  <string name="cit_audio_lb_summary_phonecall">"Test Simulacije poziva.
 
-Držite telefon kao da razgovarate, pričajte u glavni mikrofon, trebali biste čuti glas iz prijemnika, napravite test u tihom okruženju"</string>
-  <string name="cit_audio_lb_summary_topmic_to_speaker">"Testiranje gornjeg mikrofona na zvučnik.
+Okrenite uređaj, tako da je ulaz za slušalice okrenut prema dolje. Govorite u mikrofon. Trebali bi čuti vaš glas reproduciran preko lijevog zvučnika."</string>
+  <string name="cit_audio_loopback_check_summary_second">"Testiranje desnog zvučnika sekundarnog mikrofona.
 
-Okrenite telefon, govorite u gornji mikrofon, trebali biste čuti glas u zvučniku"</string>
-  <string name="cit_audio_lb_topmic_to_speaker_title">Testiranje gornjeg mikrofona povratne informacije zvučnika</string>
-  <string name="cit_audio_loopback_check_one_title">Testiranje mikrofona za slušanje</string>
-  <string name="cit_audio_loopback_check_summary_first">Testiranje će se obaviti povratnom petljom glavnog mikrofona
+Okrenite uređaj, tako da je ulaz za slušalice okrenut prema dolje. Govorite u mikrofon. Trebali bi čuti vaš glas reproduciran preko desnog zvučnika."</string>
 
-Držite telefon kao da razgovarate, pričajte u glavni mikrofon i trebali biste čuti glas iz prijemnika."</string>
-  <string name="cit_audio_loopback_check_summary_second">"Testiranje drugog zvučnika mikrofona.
 
-Uključite telefon, tako da ulaz za slušalice bude okrenut prema dolje. Govorite u prijemnik. Trebali bi čuti vaš glas kroz vanjski zvučnik."</string>
   <string name="cit_audio_loopback_check_two_title">Testiranje mikrofona za zvučnik</string>
   <string name="cit_audio_loopback_dualmic_earpiece_title">Testiranje zvuka poziva</string>
   <string name="cit_audio_loopback_next">Dalje</string>
@@ -177,9 +165,9 @@ informacije prikazane su od 0.0 (pokriveno)) pa naviše po veličini</string>
   <string name="cit_sd_mount_sucess">Uspješno učitana SD kartica</string>
   <string name="cit_sd_mp3_not_existed">"Datoteka music.mp3 se ne može naći u root-u SD kartice, 
 dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
+  <string name="cit_sd_plugin_check_summary">Ovo testiranje će otkriti učitano stanje SD kartice, na zaslonu će se prikazati "SD kartica je učitana"</string>
   <string name="cit_sd_plugged_in">SD kartica učitana, uklonite SD kartice</string>
   <string name="cit_sd_plugged_out">SD kartica nije učitana, učitajte SD karticu</string>
-  <string name="cit_sd_plugin_check_summary">Ovo testiranje će otkriti učitano stanje SD kartice, na zaslonu će se prikazati "SD kartica je učitana"</string>
   <string name="cit_sd_plugin_check_title">Testiranje učitavanja SD kartice</string>
   <string name="cit_sd_plugout_check_summary">Ovo testiranje će otkriti neučitano stanje SD kartice, na zaslonu će se prikazati "SD kartica nije učitana</string>
   <string name="cit_sd_plugout_check_title">Testiranje isključivanja SD kartice</string>
@@ -230,11 +218,8 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
   <string name="cit_tool_modem_exit_ftm">Zatvori</string>
   <string name="cit_tool_modem_offline_log">Otvori/Zatvori Offline Log</string>
-  <string name="cit_tool_nfc">NFC Test</string>
-  <string name="cit_tool_nfc_st">NFC ST:</string>
-  <string name="cit_tool_nfc_st_confreq">Freq:</string>
-  <string name="cit_tool_nfc_st_run">Pokreni</string>
-  <string name="cit_tool_nfc_st_stop">Zaustavi</string>
+  <string name="cit_tool_modem_pcap_switch">Otvori/Zatvori DATA output</string>
+  <string name="cit_tool_modem_pcm_switch">Otvori/Zatvori PCM output</string>
   <string name="cit_tool_wifi">Alati testiranja WLAN-a</string>
   <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
   <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
@@ -287,6 +272,7 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
   <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
   <string name="cit_tool_wifi_rxn_test">Rx:N</string>
+  <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
   <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
   <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
   <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
@@ -300,6 +286,7 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_tool_wifi_tx_n_txrt">MCS:</string>
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
+  <string name="cit_tool_wifi_txrx_chain_selection">Odaberi antenu</string>
   <string name="cit_torch_off">Isključite svjetiljku</string>
   <string name="cit_torch_on">Uključite svjetiljku</string>
   <string name="cit_touch_calib_fail">Kalibracija uspjela</string>

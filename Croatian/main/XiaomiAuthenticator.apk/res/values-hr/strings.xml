@@ -2,7 +2,7 @@
 <resources>
   <string name="about_preference_screen_title">Detalji</string>
   <string name="about_preference_title">Detalji</string>
-  <string name="acknowledge_button">Dalje</string>
+  <string name="acknowledge_btn">Dalje</string>
   <string name="action_settings">Postavke</string>
   <string name="activation_page">Ključ nije aktiviran</string>
   <string name="activation_page_btn_txt">Aktiviraj</string>
@@ -11,6 +11,8 @@
   <string name="app_name">MiAuth</string>
   <string name="app_name_lockpattern">Uzorak zaključavanja</string>
   <string name="app_name_short">MiAuth</string>
+  <string name="authenticator_invalid_tip">Možete zatvoriti aplikaciju ili generirati novi kod za provjeru</string>
+  <string name="authenticator_invalid_title">Račun: %1$s nespravan kod</string>
   <string name="authenticator_page_reactivation">Ponovna aktivacija</string>
   <string name="button_add_account">Dodaj račun</string>
   <string name="button_add_account_manual_entry">Ručno dodaj račun</string>
@@ -25,6 +27,7 @@
   <string name="check_code">Da biste provjerili je li ispravna vrijednost ključa za %1$s potvrdite da vrijednost ovdje odgovara vrijednosti provjere cjelovitosti dobivene od poslužitelja:&lt;br/&gt;</string>
   <string name="check_code_menu_item">Provjerite vrijednost ključa</string>
   <string name="check_code_title">Vrijednost provjere cjelovitosti</string>
+  <string name="continue_btn">Dalje</string>
   <string name="context_menu_remove_account">Ukloni</string>
   <string name="copy_to_clipboard">Kopiraj u međuspremnik</string>
   <string name="correct_enter_password">Ispravna zaporka</string>

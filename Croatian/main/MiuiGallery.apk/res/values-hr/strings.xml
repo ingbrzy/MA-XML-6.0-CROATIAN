@@ -186,11 +186,15 @@ Pregledajte i ažurirajte svoj album s bilo kojeg mjesta.
   <string name="enter_email_hint">"Unesite adresu E-pošte "</string>
   <string name="error_album_not_exist">"Album ne postoji."</string>
   <string name="error_cloud_not_active">MiCloud album nije u uporabi</string>
+  <string name="error_forbidden">Postoje problemi s vašim računom: Sinkr. onemogućena.</string>
   <string name="error_invalid_link">Veza nije valjana ili je zastarjela, zamolite vlasnika albuma da napravi novu vezu.</string>
+  <string name="error_not_acceptable">Pogreška poslužitelja: Sinkr. onemogućena.</string>
   <string name="error_repeat_apply">Već ste podijelili ovaj album</string>
   <string name="error_should_not_select_image">Upozorenje: nemojte odabrati slikovnu datoteku.</string>
   <string name="error_should_not_select_video">Upozorenje: nemojte odabrati videozapis.</string>
   <string name="error_socket_timeout">Istek mrežne veze, pokušajte kasnije</string>
+  <string name="error_title">Pogreška Sinkr.</string>
+  <string name="error_unauthorized">Previše pokušaje prijave: Sinkr. onemogućena.</string>
   <string name="error_unknown_host">Ime poslužitelja nepoznato, provjerite mrežnu vezu!</string>
   <string name="exit">Izlaz</string>
   <string name="exit_share">Napusti album</string>

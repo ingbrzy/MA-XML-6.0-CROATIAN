@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NVIDIA UI Usluga bežičnog zaslona</string>
+    <string name="miracast_access_settings_title">Postavke pristupa Miracasta</string>
+    <string name="miracast_connection_status_connected">"Trenutno streaming na "</string>
+    <string name="miracast_connection_status_discovery">"Pretraživanje za "</string>
+    <string name="miracast_connection_status_progress">"Povezivanje na "</string>
+    <string name="miracast_connection_status_warning_auth_failed">"Problem provjere autentičnosti s "</string>
+    <string name="miracast_connection_status_warning_conn_failed">"Ne mogu pronaći "</string>
+    <string name="miracast_connection_status_warning_conn_lost">"Izgubljena je veza s "</string>
+    <string name="miracast_display_notification_disconnect">Prekinuto</string>
+    <string name="miracast_hdcp_failure_text">Premium sadržaj ne može biti prikazan.</string>
+    <string name="miracast_hdcp_title">HDCP provjera autentičnosti s %1$s nije uspjela</string>
+    <string name="miracast_hdmi_title">HDMI</string>
+    <string name="miracast_hdmi_unavailable">Nije dostupno jer je Miracast aktivan.</string>
+</resources>
