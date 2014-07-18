@@ -40,4 +40,24 @@
         <item quantity="other">Pronađen je sljedeći broj pisača: %1$s</item>
         <item quantity="one">Pronađen je %1$s pisač</item>
     </plurals>
+	 <plurals name="show_cit_countdown">
+        <item quantity="other">Još %1$d koraka od ulaska u cit.</item>
+        <item quantity="one">Još %1$d korak do ulaska u cit.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Još %1$d koraka do prijavljivanja grešaka.</item>
+        <item quantity="one">Još %1$d korak do prijavljivanja grešaka.</item>
+    </plurals>
+   <plurals name="power_center_battery_day">
+        <item quantity="other">"%d dana "</item>
+        <item quantity="one">"%d dan "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d s "</item>
+        <item quantity="one">"%d s "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
 </resources> 
