@@ -495,14 +495,6 @@
         <item>Bijela</item>
         <item>Ljubičasta</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Ništa</item>
-        <item>Pokreni RAM upravitelje</item>
-        <item>Pokreni Glasovnu pomoć</item>
-        <item>Pokreni Google Now</item>
-        <item>Zatvori trenutnu aplikaciju</item>
-        <item>Zatvori Izbornik</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekunde</item>
         <item>1 sekunda</item>
@@ -518,7 +510,7 @@
         <item>Uvijek</item>
     </string-array>
     <string-array name="wfd_status">
-       <item>Uređaj povezan, kreiram sesiju…</item>
+        <item>Uređaj povezan, kreiram sesiju…</item>
         <item>Sesija kreirana.</item>
         <item>Pucanje sesije…</item>
         <item>Sesija neuspješna.</item>
@@ -528,7 +520,6 @@
     <string-array name="power_mode_entries">
         <item>Performanse</item>
         <item>Balansirano</item>
-        <item>Štednja baterije</item>
     </string-array>
        <string-array name="msd_pc_system">
         <item>Windows XP i starije verzije Windowsa</item>
@@ -637,9 +628,8 @@ Slijedite upute"</item>
         <item>Nikad</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-        <item>Viskoke performanse</item>
+        <item>Performanse</item>
         <item>Balansirano</item>
-        <item>Štednja baterije</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Ne vibriraj</item>
