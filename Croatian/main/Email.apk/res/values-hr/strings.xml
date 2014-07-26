@@ -538,5 +538,8 @@ Kopija: %4$s
     <string name="folder_picker_title">Alat za odabir mape</string>
     <string name="trash_folder_selection_title">Odaberite mapu za otpad poslužitelja za %s</string>
     <string name="sent_folder_selection_title">Odaberite mapu za poslane stavke poslužitelja za %s</string>
-    <string name="account_waiting_for_folders_msg">Učitavanje popisa mapa…</string>
+	<string name="account_waiting_for_folders_msg">Učitavanje popisa mapa…</string>
+    <string name="outbox_alert_description_auth_error">Razlog: Greška autentikacije s poslužitelja tijekom izlazne sinkronizacije</string>
+    <string name="outbox_alert_description_http_error">Razlog: HTTP pogreška s poslužitelja tijekom izlazne sinkronizacije</string>
+    <string name="outbox_alert_description_provision_error">Razlog: Provision pogreška s poslužitelja tijekom izlazne sinkronizacije</string>
 </resources>
