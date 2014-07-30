@@ -208,6 +208,9 @@
   <string name="response_maybe">Možda</string>
   <string name="response_no">"Ne"</string>
   <string name="response_yes">"Da"</string>
+  <string name="rsvp_accepted">Odgovori - Da.</string>
+  <string name="rsvp_declined">Odgovori - Ne.</string>
+  <string name="rsvp_tentative">Odgovori - Možda.</string>
   <string name="sans_serif">sans-serif</string>
   <string name="save_label">"Gotovo"</string>
   <string name="saving_event">Događaj je spremljen.</string>

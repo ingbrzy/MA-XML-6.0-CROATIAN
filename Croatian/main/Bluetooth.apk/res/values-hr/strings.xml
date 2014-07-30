@@ -83,6 +83,8 @@ Prihvaćate li datoteku?"</string>
   <string name="ok_button">"U redu"</string>
   <string name="outbound_history_title">Odlazni prijenosi</string>
   <string name="outbound_noti_title">Dijeljenje Bluetoothom: Poslane datoteke</string>
+  <string name="panu_disconnect_while_wifi_connected">Bluetooth povezivanje isključeno</string>
+  <string name="panu_no_need_connect">Nije moguće koristiti Bluetooth povezivanje, ako ste povezani na WLAN</string>
   <string name="pbap_acceptance_timeout_message">Došlo je do prekoračenja vremena za prihvat povezivanja s korisnikom %1$s</string>
   <string name="pbap_authentication_timeout_message">Došlo je do prekoračenja vremena za unos šifre sesije s korisnikom %1$s</string>
   <string name="pbap_session_key_dialog_header">Potrebna je šifra za Bluetooth sesiju</string>
@@ -127,6 +129,7 @@ Prihvaćate li datoteku?"</string>
   <string name="status_success">Prijenos datoteke uspješno je dovršen.</string>
   <string name="status_unknown_error">"Nepoznata pogreška."</string>
   <string name="title_bt_mse_settings">Napredne postavke Bluetooth MAP</string>
+  <string name="too_much_file_sent">Sustav ne podržava slanje više od 300 datoteka istovremeno</string>
   <string name="transfer_clear_dlg_msg">S popisa će biti izbrisane sve stavke.</string>
   <string name="transfer_clear_dlg_title">"Izbriši"</string>
   <string name="transfer_menu_clear">Izbriši s popisa</string>

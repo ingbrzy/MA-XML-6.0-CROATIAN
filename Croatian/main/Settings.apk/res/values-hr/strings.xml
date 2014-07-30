@@ -189,8 +189,8 @@
   <string name="application_forbid_auto_startup">Spriječi %s da se pokrene u pozadini</string>
   <string name="application_info_label">Detalji aplikacije</string>
   <string name="application_item_already_permission">Dopuušteno</string>
-  <string name="application_item_disable">Odbij</string>
-  <string name="application_item_permission">Dopusti</string>
+  <string name="application_item_disable">-</string>
+  <string name="application_item_permission">+</string>
   <string name="application_restrictions">Dopuštanje aplikacija i sadržaja</string>
   <string name="application_size_label">Aplikacija</string>
   <string name="applications_settings">Upravljanje aplikacijama</string>
@@ -2428,7 +2428,7 @@ Možda je PIN netočan."</string>
   <string name="status_prl_version">PRL verzija</string>
   <string name="status_roaming">Roaming</string>
   <string name="status_serial_number">Serijski broj</string>
-  <string name="status_serialno">Ništa</string>
+  <string name="status_serialno">Identifikacijski broj</string>
   <string name="status_service_state">Stanje usluge</string>
   <string name="status_signal_strength">Jakost signala</string>
   <string name="status_unavailable">Nedostupno</string>
