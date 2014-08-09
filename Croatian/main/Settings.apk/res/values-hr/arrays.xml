@@ -636,4 +636,8 @@ Slijedite upute"</item>
         <item>Vibracija kad je zvuk utišan</item>
         <item>Uvijek vibriraj</item>
     </string-array>
+	<string-array name="priority_storage_entries">
+        <item>Unutarnja memorija</item>
+        <item>Vanjska memorija</item>
+    </string-array>
 </resources>

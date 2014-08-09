@@ -90,6 +90,7 @@
   <string name="package_filter">ARHIVE</string>	
   <string name="pause_download">Pauza</string>
   <string name="paused_by_app">Pauziraj osobno</string>
+  <string name="paused_insufficient_space">Čekanje slobodnog prostora</string>
   <string name="paused_queued_for_wifi">Pauzirano, čeka se WLAN</string>
   <string name="paused_unknown">Nepoznata greška</string>
   <string name="paused_waiting_for_network">Čekam mrežnu vezu</string>
