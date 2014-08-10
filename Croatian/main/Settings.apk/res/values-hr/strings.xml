@@ -207,7 +207,7 @@
   <string name="assisted_gps">Koristite potpomognuti GPS</string>
   <string name="assisted_gps_disabled">Koristi poslužitelj za pomoć GPS-u (isključite za bolji rad GPS-a)</string>
   <string name="assisted_gps_enabled">Koristi poslužitelj za pomoć GPS-u (isključite za smanjenje mrežnog opterećenja)</string>
-  <string name="audio_list_loading">Učitavanje...</string>
+  <string name="audio_list_loading">Učitavanje…</string>
   <string name="audio_profile_settings_title">Audio profili</string>
   <string name="audio_record_proc_title">Uklanjanje buke</string>
   <string name="auto_caps">Automatsko pisanje velikih slova</string>
@@ -244,7 +244,7 @@
   <string name="backup_pw_set_button_text">Postavi zaporku za sigurnosnu kopiju</string>
   <string name="backup_section_title">Sigurnosna kopija i vraćanje</string>
   <string name="band_mode_failed">Neuspješno</string>
-  <string name="band_mode_loading">Učitavanje popisa mrežnih postavki...</string>
+  <string name="band_mode_loading">Učitavanje popisa mrežnih postavki…</string>
   <string name="band_mode_set">Postavi</string>
   <string name="band_mode_succeeded">Uspješno</string>
   <string name="band_mode_title">Postavi mrežu GSM/UMTS</string>
@@ -1133,7 +1133,7 @@
   <string name="hints_auto_start_enable_title">Omogućiti %d auto. pokretanje</string>
   <string name="hints_auto_start_warning_info">Onemogućiti auto. pokretanje i ne dopusti primanje upozorenja aplikacija</string>
   <string name="hints_cache_header_left">Predmemorija: %d</string>
-  <string name="hints_cleanning_text">Čišćenje...</string>
+  <string name="hints_cleanning_text">Čišćenje…</string>
   <string name="hints_finish_quick_cleanup">Završeno</string>
   <string name="hints_finish_quick_scan">Završeno</string>
   <string name="hints_garbage_cleanup_result_danger">Opasno</string>
@@ -1169,7 +1169,7 @@
   <string name="hints_no_info">Nema informacija</string>
   <string name="hints_power_percent_title">Energija</string>
   <string name="hints_quick_cleanning">Čišćenje…</string>
-  <string name="hints_quick_cleanuping">Optimizacija...</string>
+  <string name="hints_quick_cleanuping">Optimizacija…</string>
   <string name="hints_quick_scanning">Skeniranje…</string>
   <string name="hints_residual_header_left">Ostaci: %d</string>
   <string name="hints_residual_tips">Pronađeno starih datoteka: %s</string>
@@ -1282,11 +1282,11 @@
   <string name="last_check_never_checked">Skeniraj preporučeno (prvi puta)</string>
   <string name="last_checked_date2">Zadnje skeniranje obavljeno prije %d dana</string>
   <string name="last_checked_default">Zadnje skeniranje je bilo prije %s dana</string>
-  <string name="last_synced">Zadnja sinkronizacija:%1$s</string>
+  <string name="last_synced">Zadnja sinkronizacija: %1$s</string>
   <string name="launch_count_label">Broj</string>
   <string name="launcher_settings_title">MIUI Pokretač</string>
   <string name="launching_cit">Pokrećem cit, pričekajte.</string>
-  <string name="launching_pho">Preuzimam podatke uređaja...</string>
+  <string name="launching_pho">Preuzimam podatke uređaja…</string>
   <string name="launching_rep">Slanje zapisa o pogrešci, molimo pričekajte.</string>
   <string name="led_colors_summary">Obavijesti</string>
   <string name="led_frequence_summary">Postavi interval između LED treptaja</string>
@@ -1411,11 +1411,14 @@
   <string name="manageapplications_settings_summary">Upravljanje i uklanjanje instaliranih aplikacija</string>
   <string name="manageapplications_settings_title">Upravljanje aplikacijama</string>
   <string name="manually_add_network">Dodaj mrežu</string>
-  <string name="master_clear_accounts">" Trenutno ste prijavljeni na slijedeće račune:"</string>
-  <string name="master_clear_all">Izbrisati sve podatke s unutarnje pohrane uređaja? Radnja se ne može poništiti!</string>
+  <string name="master_clear_accounts">"
+
+Trenutno ste prijavljeni na sljedeće račune:
+"</string>
+  <string name="master_clear_all">"Ova radnja briše sve podatke s interne pohrane kao što je : Google račun, podatke sustava i aplikacija, preuzete aplikacije</string>
   <string name="master_clear_button_text">Poništi uređaj</string>
   <string name="master_clear_confirm_title">Poništiti?</string>
-  <string name="master_clear_desc">To će izbrisati sve podatke s "&lt;b&gt;unutarnje pohrane&lt;/b&gt;" uređaja, uključujući: "&lt;li&gt;Vaš Google račun&lt;/li&gt;" "&lt;li&gt;Podatke sustava i aplikacija&lt;/li&gt;" "&lt;li&gt;Preuzete aplikacije&lt;/li&gt;</string>
+  <string name="master_clear_desc">Ova radnja briše sve podatke s "&lt;b&gt;unutarnje pohrane&lt;/b&gt;" uređaja, uključujući: "&lt;li&gt;Vaš Google račun&lt;/li&gt;" "&lt;li&gt;Podatke sustava i aplikacija&lt;/li&gt;" "&lt;li&gt;Preuzete aplikacije&lt;/li&gt;</string>
   <string name="master_clear_desc_also_erases_external">&lt;li&gt;Glazbu&lt;/li&gt;" "&lt;li&gt;Fotografije&lt;/li&gt;" "&lt;li&gt;Ostale korisničke podatke&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">" Za brisanje glazbe, slika i ostalih korisničkih podataka, "&lt;b&gt;USB pohrana&lt;/b&gt; mora biti izbrisana.</string>
   <string name="master_clear_erase_application_progress">Brisanje aplikacija…</string>
@@ -1440,7 +1443,7 @@
   <string name="media_format_summary">Briše sve podatke USB memorije</string>
   <string name="media_format_title">Izbriši USB pohranu</string>
   <string name="media_volume_summary">Postavite glasnoću za glazbu i videozapise</string>
-  <string name="media_volume_title">"Mediji"</string>
+  <string name="media_volume_title">"Medij"</string>
   <string name="medium_font">Srednje</string>
   <string name="memeory_check_content">Apl.: %1$d, Veličina: %2$s</string>
   <string name="memory">RAM</string>
@@ -1536,7 +1539,7 @@
   <string name="miracast_menu_rename">Preimenuj zaslon</string>
   <string name="miracast_menu_search">Traži</string>
   <string name="miracast_menu_searching">Traženje</string>
-  <string name="miracast_menu_title_refreshing">Osvježavanje...</string>
+  <string name="miracast_menu_title_refreshing">Osvježavanje…</string>
   <string name="miracast_nickname">Postavite novo ime:</string>
   <string name="miracast_no_sinks_found">Nema u blizini dostupnog bežičnog zaslona</string>
   <string name="miracast_not_visible_to_other_devices">Nije vidljivo drugim uređajima bežičnog zaslona</string>
@@ -1545,7 +1548,7 @@
   <string name="miracast_pin">Povezivanje koristeći zaporku ili PIN</string>
   <string name="miracast_remem_sink_busy">Spremljeno, zauzet</string>
   <string name="miracast_remem_sink_ready_to_connect">Spremljeno, spremno za povezivanje</string>
-  <string name="miracast_search_for_displays">U potrazi za bežičnim zaslonima...</string>
+  <string name="miracast_search_for_displays">U potrazi za bežičnim zaslonima…</string>
   <string name="miracast_security">Vrsta sigurnosti</string>
   <string name="miracast_security_eap">802.1x EAP</string>
   <string name="miracast_security_none">Ništa</string>
@@ -1600,8 +1603,8 @@
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_free_on_device">%1$s dostupan na SHIELD</string>
   <string name="move_app_free_on_sdcard">%1$s dostupno na SD kartici</string>
-  <string name="move_app_progress_to_device">Premještanje %1$s na SHIELD...</string>
-  <string name="move_app_progress_to_sdcard">Premještanje %1$s na SD karticu...</string>
+  <string name="move_app_progress_to_device">Premještanje %1$s na SHIELD…</string>
+  <string name="move_app_progress_to_sdcard">Premještanje %1$s na SD karticu…</string>
   <string name="move_app_to_device_dlg_title">Premjestiti aplikaciju na SHIELD?</string>
   <string name="move_app_to_internal">Premjesti na uređaj</string>
   <string name="move_app_to_sdcard">Premjesti na USB pohranu</string>
@@ -1870,7 +1873,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="power_mode_touch_with_vibration">Vibriraj na dodir</string>
   <string name="power_mode_vibration">Vibracija</string>
   <string name="power_mode_vibration_no">Nikad</string>
-  <string name="power_mode_vibration_silence">Kad je bešumni način</string>
+  <string name="power_mode_vibration_silence">Vibriraj kada je zvuk isključen</string>
   <string name="power_mode_vibration_yes">Uvijek</string>
   <string name="power_mode_wifi">WLAN</string>
   <string name="power_new_choose_mode">Odabir konfiguracije</string>
@@ -1950,10 +1953,10 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="preferred_application_warning_use_system">Koristi %s</string>
   <string name="preferred_launcher_title">Željeni pokretač</string>
   <string name="preferred_media_app_summary">"Odaberite apl. za reprodukciju glazbe"</string>
-  <string name="priority_storage_app_settings">Korisnički podaci će biti pohranjeni na %1$s</string>
-  <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, korisnički podaci će biti automatski spremljeni na internu pohranu</string>
+  <string name="priority_storage_app_settings">Korisnički podaci biti će pohranjeni na %1$s</string>
+  <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, korisnički podaci biti će automatski spremljeni na internu pohranu</string>
   <string name="priority_storage_summary">Odaberite zadanu memoriju za pohranu podataka</string>
-  <string name="priority_storage_title">Podešavanje memorije</string>
+  <string name="priority_storage_title">Podešavanje pohrane</string>
   <string name="print_blocked_state_title_template">Pisač je blokirao %1$s</string>
   <string name="print_cancel">Odustani</string>
   <string name="print_cancelling_state_title_template">Otkazivanje zadatka %1$s</string>
@@ -2102,7 +2105,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="radio_info_toggle_dns_check_label">Uključi/isključi DNS provjeru</string>
   <string name="really_remove_account_message">Uklanjanjem ovog računa izbrisat će se sve njegove poruke, kontakti i ostali podaci s uređaja!</string>
   <string name="really_remove_account_title">Ukloniti račun?</string>
-  <string name="rebootiing_for_updates">Ponovno pokretanje...</string>
+  <string name="rebootiing_for_updates">Ponovno pokretanje…</string>
   <string name="recognizer_settings_summary">"Postavke za '%s"</string>
   <string name="recognizer_settings_title">"Glasovno pretraživanje"</string>
   <string name="recognizer_title">Alat za prepoznavanje glasa</string>
@@ -2115,7 +2118,12 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="remove_from_frequently_fragment">Ukloniti %s iz brzih postavki?</string>
   <string name="reset_app_preferences">Poništi željene postavke aplikacije</string>
   <string name="reset_app_preferences_button">Poništi aplikacije</string>
-  <string name="reset_app_preferences_desc">"Ovo će poništiti sve željene postavke za: "&lt;li&gt;Onemogućene aplikacije&lt;/li&gt;" "&lt;li&gt;Obavijesti onemogućenih aplikacija&lt;/li&gt;" "&lt;li&gt;Zadane aplikacije za radnje&lt;/li&gt;" "&lt;li&gt;Ograničenja pozadinskih podataka za aplikacije&lt;/li&gt;" "&lt;li&gt;Sva ograničenja dopuštenja&lt;/li&gt;" Nećete izgubiti podatke aplikacija."</string>
+  <string name="reset_app_preferences_desc">"Ovo će poništiti sve željene postavke za:
+ "Obavijesti onemogućenih aplikacija"
+ "Zadane aplikacije za radnje"
+ "Ograničenja pozadinskih podataka za aplikacije"
+
+ Nećete izgubiti podatke aplikacija."</string>
   <string name="reset_app_preferences_title">Poništiti željene postavke aplikacija?</string>
   <string name="resource_ringtone_volume_mute">Ton zvona je isključen</string>
   <string name="restore_default_apn">Vraćanje zadanih APN postavki</string>
@@ -2147,7 +2155,8 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="roaming_reenable_title">"Omogućiti roaming podataka?</string>
   <string name="roaming_turn_it_on_button">Uključi</string>
   <string name="roaming_warning">Ako omogućite roaming podataka, može doći do značajnih troškova roaminga!</string>
-  <string name="roaming_warning_multiuser">"Kada dopustite podatkovni roaming, mogu nastati značajni troškovi roaminga! Ova postavka utječe na sve korisnike na ovom uređaju."</string>
+  <string name="roaming_warning_multiuser">"Kada dopustite podatkovni roaming, mogu nastati značajni troškovi roaminga! 
+Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_process_item_removed_user_label">Uklonjeni korisnik</string>
   <string name="running_process_item_user_label">Korisnik: %1$s</string>
@@ -2379,10 +2388,15 @@ Možda je PIN netočan."</string>
   <string name="spellcheckers_settings_title">Provjera pravopisa</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Nadzor mreže</string>
-  <string name="ssl_ca_cert_info_message">"Ovim uređajem upravlja: %s Vaš administrator je u mogućnosti pratiti vašu mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. Za više informacija kontaktirajte vašeg administratora.</string>
+  <string name="ssl_ca_cert_info_message">"Ovim uređajem upravlja: 
+ %s
+Vaš administrator je u mogućnosti pratiti vašu mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. 
+
+Za više informacija kontaktirajte vašeg administratora.</string>
   <string name="ssl_ca_cert_settings_button">Provjeri pouzdane vjerodajnice</string>
   <string name="ssl_ca_cert_warning">Mreža se možda nadzire</string>
-  <string name="ssl_ca_cert_warning_message">"Treća je strana u mogućnosti pratiti vašu mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</string>
+  <string name="ssl_ca_cert_warning_message">"Treća je strana u mogućnosti pratiti vašu mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. 
+To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</string>
   <string name="status_awake_time">Vrijeme bez mirovanja</string>
   <string name="status_bar_and_notification_bar">Zatamnjenje obavijesti i statusna traka</string>
   <string name="status_bar_filter_item_description">Za podešavanje obavijesti, idite u izbornik Opće postavke &gt; Obavijesti &gt; Upravljanje obavijestima</string>
@@ -2546,7 +2560,7 @@ Možda je PIN netočan."</string>
   <string name="toast_removed_from_white_list">Je uklonjen s liste dopuštenih</string>
   <string name="toast_shortcut_install">Prečac postavljen na početni zaslon</string>
   <string name="toast_shortcut_uninstall">Prečac uklonjen</string>
-  <string name="total_size">%s ukupno</string>
+  <string name="total_size">Ukupno %s</string>
   <string name="total_size_label">Ukupno</string>
   <string name="touch_sensitive_summary">"Učini zaslon posebno osjetljivim na dodir kako bi se omogućilo korištenje u rukavicama"</string>
   <string name="touch_sensitive_title">Način rada u rukavicama</string>
@@ -2608,7 +2622,7 @@ Možda je PIN netočan."</string>
   <string name="tts_status_checking">Provjera…</string>
   <string name="tts_status_not_supported">%1$s nije podržan</string>
   <string name="tts_status_ok">%1$s je u potpunosti podržan</string>
-  <string name="tts_status_requires_network">%1$s zahtijeva mrežnu vezu</string>
+  <string name="tts_status_requires_network">%1$s zahtjeva mrežnu vezu</string>
   <string name="tts_status_title">Status zadanog jezika</string>
   <string name="turn_off_radio">Isključi radio</string>
   <string name="turn_off_security_lock">Isključi zaključavanje zaslona</string>
@@ -2655,7 +2669,7 @@ Možda je PIN netočan."</string>
   <string name="unmount_inform_text">USB pohrana će biti isključena.</string>
   <string name="untitled_apn">Bez naslova</string>
   <string name="update_progress_for_updates">Ažuriranje (%s)</string>
-  <string name="upload_debug_log_summary">Pomozi kompaniji Xiaomi pri poboljšavanju proizvoda i usluga šaljući anonimne dijagnostičke podatke i podatke o korištenju</string>
+  <string name="upload_debug_log_summary">Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju</string>
   <string name="upload_debug_log_title">Program korisničkog iskustva</string>
   <string name="usage_log">Statistika korištenja aplikacija</string>
   <string name="usage_name_percent">"%1$s - %2$s%%"</string>
@@ -2679,8 +2693,8 @@ Možda je PIN netočan."</string>
   <string name="usb_host_mode_subtext">Za korištenje igraćih kontrolera i ostalih perifernih uređaja na USB priključku, može smanjiti trajanje baterije </string>
   <string name="usb_host_mode_text">Omogući način USB domaćina</string>
   <string name="usb_label_installer_cd">Instaliraj alate za prijenos datoteka</string>
-  <string name="usb_msd_driver_installer_summary">Pribavi pogonske programe za Windows i OSX</string>
-  <string name="usb_msd_driver_installer_title">Disk za instalaciju pogonskih programa (MSD).</string>
+  <string name="usb_msd_driver_installer_summary">Pribavi upravljačke programe za Windows i OSX</string>
+  <string name="usb_msd_driver_installer_title">Disk za instalaciju upravljačkih programa (MSD).</string>
   <string name="usb_msd_summary">Prenesi datoteke preko Windowsa ili OSX-a</string>
   <string name="usb_msd_title">Uređaj za masovnu pohranu</string>
   <string name="usb_mtp_summary">Omogućuje prijenos medijskih datoteka u OS Windows ili Androidovim prijenosom datoteka na Mac (pogledajte www.android.com/filetransfer)</string>
@@ -2705,8 +2719,13 @@ Možda je PIN netočan."</string>
   <string name="user_add_user_item_summary">Korisnici imaju vlastite aplikacije i sadržaj</string>
   <string name="user_add_user_item_title">Korisnik</string>
   <string name="user_add_user_menu">Dodavanje korisnika ili profila</string>
-  <string name="user_add_user_message_long">"Ovaj uređaj možete dijeliti s drugima tako da stvorite dodatne korisnike. Svaki korisnik ima vlastiti prostor koji može prilagoditi sa svojim aplikacijama, pozadinskom slikom i sličnim stvarima. Korisnici također mogu podesiti postavke uređaja koje utječu na sve korisnike, kao što je npr. WLAN. Nakon što stvorite novog korisnika, ta osoba mora proći postupak postavljanja. Svaki korisnik može prihvatiti ažurirana dopuštenja aplikacija u ime svih ostalih korisnika."</string>
-  <string name="user_add_user_message_short">"Nakon što stvorite novog korisnika, ta osoba mora proći postupak postavljanja. Svaki korisnik može prihvatiti ažurirana dopuštenja aplikacija u ime svih ostalih korisnika."</string>
+   <string name="user_add_user_message_long">"Ovaj uređaj možete dijeliti s drugima tako da stvorite dodatne korisnike. 
+Svaki korisnik ima vlastiti prostor koji može prilagoditi sa svojim aplikacijama, slikom pozadine i sličnim stvarima. 
+Korisnici također mogu podesiti postavke uređaja koje utječu na sve korisnike, kao što je npr. WLAN. Nakon što stvorite novog korisnika, ta osoba mora proći postupak postavljanja.
+Svaki korisnik može prihvatiti ažuriranja dopuštenja aplikacija u ime svih ostalih korisnika."</string>
+  <string name="user_add_user_message_short">"Nakon stvaranja novog korisnika, ta osoba mora proći kroz proces postavljanja.
+
+Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija u ime svih ostalih korisnika."</string>
   <string name="user_add_user_title">Dodaj novog korisnika</string>
   <string name="user_add_user_type_title">Dodaj</string>
   <string name="user_adding_new_user">Dodavanje novog korisnika…</string>
@@ -2876,9 +2895,9 @@ Možda je PIN netočan."</string>
   <string name="wallpaper_settings_title">"Slika pozadine"</string>
   <string name="welcome">"Dobro došli!"</string>
   <string name="wfd_available_devices">Dostupni uređaji</string>
-  <string name="wfd_disconnect_diag_msg">Ako zaustavite sesiju WLAN zaslona, vaša veza na %1$s će biti prekinuta.</string>
-  <string name="wfd_disconnect_diag_title">Ugasi sesiju?</string>
-  <string name="wfd_disconnect_multiple_diag_message">Ako zaustavite sesiju WLAN zaslona, vaša veza na %1$s i %2$s drugih uređaja će biti prekinuta.</string>
+  <string name="wfd_disconnect_diag_msg">Ako zaustavite povezivanje WLAN zaslona, vaša veza na %1$s će biti prekinuta.</string>
+  <string name="wfd_disconnect_diag_title">Prekinuti WLAN povezivanje?</string>
+  <string name="wfd_disconnect_multiple_diag_message">Ako zaustavite povezivanje WLAN zaslona, vaša veza na %1$s i %2$s drugih uređaja će biti prekinuta.</string>
   <string name="wfd_enable_wifi_diag_title">WLAN zaslon možete koristiti samo kada je WLAN omogućen. „Omogući ga sada?"</string>
   <string name="wfd_enabler_title">Omogući WLAN zaslon</string>
   <string name="wfd_menu_search">Traženje uređaja</string>
@@ -2888,7 +2907,7 @@ Možda je PIN netočan."</string>
   <string name="wfd_settings_title">WLAN zaslon</string>
   <string name="wfd_wps_keypad">Željena je autentifikacija pritiskom gumba</string>
   <string name="wfd_wps_pbc">Željena je autentifikacija unosom PIN-a</string>
-  <string name="white_list_ad_header">Reklame: %d</string>
+  <string name="white_list_ad_header">Reklama: %d</string>
   <string name="white_list_apk_header">Instal. paketi: %d</string>
   <string name="white_list_cache_header">Predmorija: %d</string>
   <string name="white_list_large_file_header">Vel.datoteka: %d</string>
@@ -2966,7 +2985,7 @@ Možda je PIN netočan."</string>
   <string name="wifi_forget">Zaboravi</string>
   <string name="wifi_gateway">Pristupnik</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
-  <string name="wifi_in_airplane_mode">U načinu rada u zrakoplovu</string>
+  <string name="wifi_in_airplane_mode">Načinu rada u zrakoplovu</string>
   <string name="wifi_install_credentials">Instaliranje certifikata</string>
   <string name="wifi_ip_address">IP adresa</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
@@ -3031,7 +3050,8 @@ Možda je PIN netočan."</string>
   <string name="wifi_scan_always_available_summary">Dopustiti da Googleova usluga lokacije i druge aplikacije traže mreže, čak i kada je WLAN isključen</string>
   <string name="wifi_scan_always_confirm_allow">Dopusti</string>
   <string name="wifi_scan_always_confirm_deny">Odbij</string>
-  <string name="wifi_scan_always_turnon_message">"Radi poboljšanja preciznosti lokacije kao i u druge svrhe aplikacija %1$s želi uključiti skeniranje mreža, čak i kada je WLAN isključen. Dopusti ovo za sve aplikacije koje žele skenirati?</string>
+  <string name="wifi_scan_always_turnon_message">"Radi poboljšanja preciznosti lokacije kao i u druge svrhe aplikacija %1$s želi uključiti skeniranje mreža, čak i kada je WLAN isključen. 
+Dopustiti ovo za sve aplikacije koje žele skenirati?</string>
   <string name="wifi_scan_notify_remember_choice">Ne prikazuj ponovno</string>
   <string name="wifi_scan_notify_text_location_off">Aplikacije mogu skenirati mreže u blizini, čak i kada je WLAN isključen. Ako ne želite da se to događa, idite na opcije Napredno &gt; Skeniranje je uvijek dostupno.</string>
   <string name="wifi_scan_notify_text_location_on">Radi poboljšavanja preciznosti i u neke druge svrhe Google i ostale aplikacije mogu tražiti mreže u blizini, čak i kada je WLAN isključen. Ako ne želite da se to događa, idite na opcije Napredno &gt; Skeniranje je uvijek dostupno.</string>
