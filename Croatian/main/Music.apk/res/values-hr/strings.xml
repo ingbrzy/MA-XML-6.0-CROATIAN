@@ -40,6 +40,10 @@
   <string name="download_method">"Preuzmi"</string>
   <string name="download_while_playing_summary">Automatski preuzmi pjesme koje ste slušali na mreži</string>
   <string name="download_while_playing_title">Slušaj za vrijeme preuzimanja</string>
+  <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi računom.</string>
+  <string name="error_not_acceptable">Sinkronizacija je onemogućena</string>
+  <string name="error_title">"Ne mogu sinkronizirati"</string>
+  <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="fail_to_play">Reprodukcija nije uspjela</string>
   <string name="favorite_canceled">Uklonjeno iz favorita</string>
   <string name="favorite_playlist">Moji favoriti</string>
@@ -94,7 +98,6 @@
   <string name="track_list_control_download">"Preuzmi"</string>
   <string name="track_list_control_edit_add_tracks">Dodaj pjesme</string>
   <string name="track_list_control_edit_delete_playlist">"Izbriši"</string>
-  <string name="track_list_control_edit_rename_playlist">Preimenuj</string>
   <string name="track_list_control_play">"Reproduciraj"</string>
   <string name="track_list_descript_cover">Omot</string>
   <string name="track_search_title">"Zapis"</string>
