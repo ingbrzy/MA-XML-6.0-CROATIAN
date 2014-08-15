@@ -54,7 +54,7 @@
   <string name="add_weibo_account">Dodaj račun</string>
   <string name="alert_notif_title_dspt">Omogućite sinkronizaciju da biste vaš sadržaj u oblaku održali ažurnim.</string>
   <string name="alert_title_remove_account">Odjavi se</string>
-  <string name="app_name">Okvir Xiaomi usluge</string>
+  <string name="app_name">Xiaomi Service Framework</string>
   <string name="available_functionality">Značajke</string>
   <string name="bad_authentication">"Nevažeće korisničko ime ili zaporka."</string>
   <string name="bind_settings">Poveži</string>
