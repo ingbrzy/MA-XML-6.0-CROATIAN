@@ -26,7 +26,8 @@
   <string name="app_details">Detalji aplikacije:</string>
   <string name="auto">Automatski</string>
   <string name="bg_replacement_message">"Odložite uređaj i
-Iskoračite iz prikaza na trenutak"</string>
+iskoračite iz prikaza na trenutak"</string>
+  <string name="burst_shoot_exit_button_text">Završi uzastopno slikanje</string>
   <string name="camera_disabled">Fotoaparat je onemogućen zbog sigurnosne politike.</string>
   <string name="camera_error_title">Greška fotoaparata</string>
   <string name="camera_label">Fotoaparat</string>
@@ -34,7 +35,8 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="can_not_play_video">Otključaj zaslon za prikaz reprodukcije</string>
   <string name="cancel">Odustani</string>
   <string name="cannot_connect_camera_once">"Ne mogu se spojiti s kamerom."</string>
-  <string name="cannot_move_warning_message">Fotografiranje, ne pomičite uređaj.</string>
+  <string name="cannot_connect_camera_twice">"Ne mogu se spojiti s kamerom, ponovno pkrenite telefon"</string>
+ <string name="cannot_move_warning_message">Fotografiranje, ne pomičite uređaj.</string>
   <string name="chroma_flash_exit_button_text">Izlaz iz Chroma Flash načina</string>
   <string name="clear_effects">Očisti efekte</string>
   <string name="close">Zatvori</string>
@@ -169,6 +171,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="not_enable_feature">Podsjeti me kasnije</string>
   <string name="not_enough_space">Unutarnja pohrana je puna.</string>
   <string name="not_selectable_in_scene_mode">Ne može se odabrati u načinu scene.</string>
+  <string name="object_track_enable_toast">Klizite prstom preko zaslona za praćenje predmeta.</string>
   <string name="ok">U redu</string>
   <string name="opti_zoom_exit_button_text">Izlaz iz OptiZoom načina</string>
   <string name="orientation">Orijentacija</string>
@@ -186,8 +189,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="people">Osobe</string>
   <string name="pref_advanced_functions">Napredne funkcije</string>
   <string name="pref_advanced_settings">Napredno</string>
-  <string name="pref_audio_indicator_entry_off">Zvuk isklj.</string>
-  <string name="pref_audio_indicator_entry_on">Zvuk uklj.</string>
+  <string name="pref_burst_shoot_title">Uzastopno slikanje</string>
   <string name="pref_camcorder_settings_category">Postavke fotoaparata</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
   <string name="pref_camera_antibanding_entry_0">Isključeno</string>
@@ -196,6 +198,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_antibanding_entry_3">Automatski</string>
   <string name="pref_camera_antibanding_title">Smanjenje traka na zaslonu</string>
   <string name="pref_camera_audio_capture_title">Zvuk</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Auto. snimi kad se zaustavi</string>
   <string name="pref_camera_auto_focus_title_entry_off">Isključeno</string>
   <string name="pref_camera_auto_focus_title_entry_on">Uključeno</string>
   <string name="pref_camera_auto_opti_zoom_title">Automatski Opti Zoom kada je omjer veći od 2</string>
@@ -226,6 +229,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_coloreffect_entry_yesteryear"/>  
   <string name="pref_camera_coloreffect_title">Filter</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
+  <string name="pref_camera_countdown_title">Odbrojavanje</string>
   <string name="pref_camera_current_k_value">Trenutna vrijednost</string>
   <string name="pref_camera_default_suffix">(zadano)</string>
   <string name="pref_camera_denoise_title">Odšumenje</string>
@@ -262,7 +266,6 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Uživo</string>
   <string name="pref_camera_hdr_type_entry_normal">Normalan</string>
-  <string name="pref_camera_hdr_type_title">Tip HDR</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
@@ -408,20 +411,20 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_captrue_mirror_entry_on">Uključeno</string>
   <string name="pref_captrue_mirror_title">Prednja kamera</string>
   <string name="pref_exposure_title">Ekspozicija</string>
-  <string name="pref_face_beauty_title">Sjena</string>
-  <string name="pref_front_mirror_title">Zrcalna prednja kamera</string>
   <string name="pref_grp_advanced_settings">Napredne postavke</string>
   <string name="pref_grp_capture_settings">Postavke snimanja</string>
   <string name="pref_grp_picture_settings">Postavke slike</string>
   <string name="pref_grp_restore_settings">Vraćanje zadanih postavki</string>
+  <string name="pref_long_press_shutter_button_focus_title">Dugo držite za fokus</string>
   <string name="pref_manual_exposure_title">Ručna ekspozicija</string>
+  <string name="pref_priority_storage_title">Prioritet je spremanje na vanjsku SD karticu</string>
   <string name="pref_scan_qrcode_entry_off">Isključeno</string>
   <string name="pref_scan_qrcode_entry_on">Uključeno</string>
   <string name="pref_scan_qrcode_title">Skeniraj QR kod</string>
   <string name="pref_setting_title">Postavke</string>
   <string name="pref_settings_mode">Način rada Fotoaparata</string>
-  <string name="pref_priority_storage_title">Spremi na vanjsku SD karticu</string>
   <string name="pref_touch_down_capture_title">Touch Down Capture</string>
+  <string name="pref_video_4kuhd_title_simple_mode">4K</string>
   <string name="pref_video_captrue_ability_title">Sposobnost Snimanja</string>
   <string name="pref_video_fast_speed_title_simple_mode">Video sporog gibanja</string>
   <string name="pref_video_focusmode_entry_auto">Dodir</string>
@@ -436,7 +439,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Kvaliteta videozapisa</string>
-  <string name="pref_video_slow_speed_title_simple_mode">Sporo-gibanje</string>
+  <string name="pref_video_slow_speed_title_simple_mode">Sporo gibanje</string>
   <string name="pref_video_speed_entry_fast">Brzo</string>
   <string name="pref_video_speed_entry_normal">Normalno</string>
   <string name="pref_video_speed_entry_slow">Sporo</string>
@@ -487,9 +490,11 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="show_images_only">Samo slike</string>
   <string name="show_on_map">Pokaži na mapi</string>
   <string name="show_videos_only">Samo videozapisi</string>
+  <string name="simple_mode_button_text_4kuhd">Zatvori 4K</string>
   <string name="simple_mode_button_text_audio_capture">Zatvori snimanje zvuka</string>
   <string name="simple_mode_button_text_chroma_flash">Zatvori Chroma Flash način</string>
   <string name="simple_mode_button_text_color_effect">Zatvori filter</string>
+  <string name="simple_mode_button_text_countdown">Zatvori odbrojavanje</string>
   <string name="simple_mode_button_text_face_beauty">Isključi poboljšanje lica</string>
   <string name="simple_mode_button_text_fast_video">Prekinuti ubrzani fotoaparat</string>
   <string name="simple_mode_button_text_hand_night">Izlaz iz noćnog načina</string>
@@ -520,7 +525,9 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Brzo uzastopno snimanje nije podržano kada ISO nije 'automatski'."</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Nije moguće pregledavati fotografije ili video ako je zaslon zaključan.</string>
   <string name="toast_start_audio_capture">Napravite zvuk na okidanju</string>
+  <string name="ubi_focus_capture_fail">Greška, pokušajte ponovno.</string>
   <string name="ubi_focus_exit_button_text">Izlaz iz Ubi Focus načina</string>
+  <string name="ubifocus_capture_warning_message">Za najbolje rezultate, vaša fotografija bi trebala sadržavati objekte i blizu (manje od 1 metar od objektiva) i daleko</string>
   <string name="undo">VRATI</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Videokamera</string>
