@@ -198,7 +198,7 @@
     <string name="selected_resource_file_invalid">Odabrana datoteka nije valjana.</string>
     <string name="settings">Postavke</string>
     <string name="short_ringtone_resource">Kratko</string>
-    <string name="theme_batch_has_update_text"Tema s novom verzijom: %1$d</string>
+    <string name="theme_batch_has_update_text">Tema s novom verzijom: %1$d</string>
     <string name="theme_batch_update_all">Ažuriraj sve</string>
     <string name="theme_batch_update_dlg_content">Želite li ažurirati sada?</string>
     <string name="theme_batch_update_dlg_content_single">Ažurirati sada?</string>
@@ -237,10 +237,10 @@
     <string name="theme_import_from_sdcard">Uvezi s SD kartice</string>
     <string name="theme_select_others">Ostalo</string>
     <string name="third_party_pickers_activity_title">Podesi %1$s</string>
-  <string name="title_component">Uređivanje tema</string>
+    <string name="title_component">Uređivanje tema</string>
     <string name="title_local">Lokalno</string>
     <string name="title_online">Internet</string>
-  <string name="title_system_resource">Lokalni resursi</string>
+    <string name="title_system_resource">Lokalni resursi</string>
     <string name="to_activate_the_account">Aktivirajte svoj Xiaomi račun</string>
     <string name="wallpaper_crop">Obreži</string>
     <string name="wallpaper_decoded_error">Neuspješno dekodiranje</string>
