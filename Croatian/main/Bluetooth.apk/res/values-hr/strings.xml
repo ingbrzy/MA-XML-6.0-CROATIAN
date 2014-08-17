@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ErrorTooManyRequests">U obradi je previše zahtjeva. Pokušajte ponovo kasnije.</string>
   <string name="ack_record">Ack zapis</string>
   <string name="airplane_error_msg">Bluetooth se ne može upotrebljavati u načinu rada u zrakoplovu.</string>
   <string name="airplane_error_title">"Način rada u zrakoplovu"</string>
@@ -7,7 +8,7 @@
   <string name="auth_notif_message">Upiši šifru sesije za %1$s</string>
   <string name="auth_notif_ticker">Zahtjev za provjeru autentičnosti Obex protokola</string>
   <string name="auth_notif_title">Šifra sesije</string>
-  <string name="bt_advanced_settings">Napredne postavke Bluetootha</string>
+  <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bt_enable_cancel">"Odustani"</string>
   <string name="bt_enable_line1">Prije upotrebe Bluetooth usluga, prvo morate uključiti Bluetooth.</string>
   <string name="bt_enable_line2">Uključiti Bluetooth sada?</string>
@@ -43,6 +44,7 @@
   <string name="download_succ_ok">"Otvori"</string>
   <string name="download_success">%1$s Primljeno u potpunosti.</string>
   <string name="download_title">Prijenos datoteka</string>
+  <string name="empty_file_notification_sent">Bluetooth dijeljenje: Daljinski odbijena datoteku nulte duljine  %1$s</string>
   <string name="enabling_progress_content">Uključivanje Bluetootha…</string>
   <string name="enabling_progress_title">Pričekajte…</string>
   <string name="ErrorTooManyRequests">"U obradi je previše zahtjeva. Pokušajte ponovo kasnije."</string>
@@ -50,10 +52,11 @@
   <string name="inbound_history_title">Dolazni prijenosi</string>
   <string name="inbound_noti_title">Dijeljenje Bluetoothom: Primljene datoteke</string>
   <string name="incoming_file_confirm_Notification_caption">Želite li primiti ovu datoteku?</string>
-  <string name="incoming_file_confirm_content">"\"%1$s\" vam želi poslati %2$s (%3$s). 
-Prihvaćate li datoteku?"</string>
   <string name="incoming_file_confirm_Notification_title">Dijeljenje Bluetoothom: Dolazna datoteka</string>
   <string name="incoming_file_confirm_cancel">"Odbaci"</string>
+  <string name="incoming_file_confirm_content">"\"%1$s\" vam želi poslati %2$s (%3$s). 
+
+Prihvaćate li datoteku?"</string>
   <string name="incoming_file_confirm_ok">"Prihvaćam"</string>
   <string name="incoming_file_confirm_timeout_content">Došlo je do prekoračenja vremena pri primanju datoteke koju šalje \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">"U redu"</string>
@@ -61,16 +64,13 @@ Prihvaćate li datoteku?"</string>
   <string name="incoming_file_toast_msg">Dolazna datoteka s drugog uređaja. Potvrdite da želite primiti tu datoteku.</string>
   <string name="insert_record">Umetni zapis</string>
   <string name="localPhoneName">Moje ime</string>
-  <string name="map_datasource_mms_name">MMS</string>
-  <string name="map_datasource_sms_name">SMS</string>
-  <string name="map_datasource_smsmms_name">SMS i MMS</string>
-  <string name="map_provider_smsmms_name">Poruke</string>
   <string name="miui_transfer_history_title">Bluetooth prijenosi</string>
   <string name="miui_transfer_inbound_title">Dolazno</string>
   <string name="miui_transfer_outbound_title">Odlazno</string>
   <string name="no_transfers">Povijest prijenosa je prazna.</string>
   <string name="not_exist_file">Nema datoteke</string>
-  <string name="not_exist_file_desc">Datoteka ne postoji.</string>
+  <string name="not_exist_file_desc">"Datoteka ne postoji.
+"</string>
   <string name="noti_caption">%1$s uspjelo, %2$s nije uspjelo.</string>
   <string name="notification_received">Dijeljenje Bluetoothom: Primljena datoteka %1$s</string>
   <string name="notification_received_fail">Dijeljenje Bluetoothom: Datoteka %1$s nije primljena</string>
@@ -83,39 +83,18 @@ Prihvaćate li datoteku?"</string>
   <string name="ok_button">"U redu"</string>
   <string name="outbound_history_title">Odlazni prijenosi</string>
   <string name="outbound_noti_title">Dijeljenje Bluetoothom: Poslane datoteke</string>
-  <string name="panu_disconnect_while_wifi_connected">Bluetooth povezivanje isključeno</string>
-  <string name="panu_no_need_connect">Nije moguće koristiti Bluetooth povezivanje, ako ste povezani na WLAN</string>
   <string name="pbap_acceptance_timeout_message">Došlo je do prekoračenja vremena za prihvat povezivanja s korisnikom %1$s</string>
   <string name="pbap_authentication_timeout_message">Došlo je do prekoračenja vremena za unos šifre sesije s korisnikom %1$s</string>
   <string name="pbap_session_key_dialog_header">Potrebna je šifra za Bluetooth sesiju</string>
   <string name="pbap_session_key_dialog_title">Upiši šifru sesije za %1$s</string>
-  <string name="permdesc_bluetoothMap">Omogućuje aplikaciji pristup sadržaja profila davatelja Bluetooth Poruka i koristi ga za slanje poruka u MAP poruke za klijente.</string>
   <string name="permdesc_bluetoothShareManager">Aplikaciji omogućuje pristup upravitelju za Bluetooth Dijeljenje i njegovu upotrebu za prijenos datoteka.</string>
   <string name="permdesc_bluetoothWhitelist">Omogućuje aplikaciji privremeno stavljanje Bluetooth uređaja na popis dopuštenih uređaja, čime mu omogućuje da šalje datoteke na ovaj uređaj bez potvrde korisnika.</string>
-  <string name="permdesc_fm_receiver">Omogućuje aplikaciji pristup funkcijama FM prijemnika.</string>
   <string name="permdesc_handoverStatus">Omogućuje primanje informacija o statusu prijenosa s Bluetooth uređaja.</string>
   <string name="permlab_bluetoothMap">Pristup Bluetooth Message Access Profile davatelju sadržaja.</string>
-  <string name="permlab_bluetoothShareManager">"Pristupite upravitelju za preuzimanje."</string>
   <string name="permlab_bluetoothWhitelist">Stavi pristup Bluetooth uređaja na popis dopuštenih pristupa.</string>
-  <string name="permlab_fm_receiver">pristup FM prijemniku</string>
   <string name="permlab_handoverStatus">Primaj prijenose s Bluetooth uređaja.</string>
-  <string name="profile_description_a2dp">A2DP Profil</string>
-  <string name="profile_description_ftp">Profil Prijenosa datoteka (poslužitelj)</string>
-  <string name="profile_description_gatt">GATT/BLE Profil</string>
-  <string name="profile_description_hdp">Profil zdravlja uređaja</string>
-  <string name="profile_description_hid">Human Interface Device (Host) Profil</string>
-  <string name="profile_description_hs_hfp">Profil Slušalice/Handsfree</string>
-  <string name="profile_description_mse">Profil Pristupu poruka</string>
-  <string name="profile_description_pan">Personal Area Network Profil</string>
-  <string name="profile_description_sap">SIM Pristup Profil</string>
-  <string name="profile_ftp">FTP</string>
-  <string name="profile_gatt">GATT</string>
-  <string name="profile_hdp">HDP</string>
-  <string name="profile_hid">HID Host</string>
-  <string name="profile_hs_hfp">HS/HFP</string>
-  <string name="profile_mse">MAP</string>
-  <string name="profile_pan">PAN</string>
-  <string name="profile_sap">SAP</string>
+  <string name="process"/>
+  <string name="sharedUserId"/>
   <string name="start_server">Pokreni TCP poslužitelj</string>
   <string name="status_canceled">Korisnik je otkazao prijenos.</string>
   <string name="status_connection_error">Neuspješno povezivanje.</string>
@@ -127,19 +106,18 @@ Prihvaćate li datoteku?"</string>
   <string name="status_protocol_error">Zahtjev nije moguće ispravno obraditi.</string>
   <string name="status_running">Prijenos datoteke u tijeku.</string>
   <string name="status_success">Prijenos datoteke uspješno je dovršen.</string>
-  <string name="status_unknown_error">"Nepoznata pogreška."</string>
-  <string name="title_bt_mse_settings">Napredne postavke Bluetooth MAP</string>
-  <string name="too_much_file_sent">Sustav ne podržava slanje više od 300 datoteka istovremeno</string>
+  <string name="status_unknown_error">Nepoznata pogreška.</string>
   <string name="transfer_clear_dlg_msg">S popisa će biti izbrisane sve stavke.</string>
   <string name="transfer_clear_dlg_title">"Izbriši"</string>
   <string name="transfer_menu_clear">Izbriši s popisa</string>
   <string name="transfer_menu_clear_all">Izbriši popis</string>
   <string name="transfer_menu_open">"Otvori"</string>
+  <string name="unknownName">Nepoznati naziv</string>
+  <string name="unknownNumber">Nepoznato</string>
   <string name="unknown_device">Nepoznati uređaj</string>
   <string name="unknown_file">Nepoznata datoteka</string>
-  <string name="unknown_file_desc">Nema aplikacija za obradu ove vrste datoteke.</string>
-  <string name="unknownName">Nepoznato ime</string>
-  <string name="unknownNumber">Nepoznati broj</string>
+  <string name="unknown_file_desc">"Nema aplikacija za obradu ove vrste datoteke. 
+"</string>
   <string name="update_record">Potvrdi zapis</string>
   <string name="upload_fail_cancel">"Zatvori"</string>
   <string name="upload_fail_line1">Datoteka nije poslana primatelju \"%1$s\".</string>

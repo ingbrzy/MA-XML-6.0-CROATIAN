@@ -13,41 +13,146 @@
         <item>"10 minuta"</item>
         <item>"15 minuta"</item>
         <item>"20 minuta"</item>
-        <item>"25 minuta"</item>
-        <item>"30 minuta"</item>
-        <item>"45 minuta"</item>
-        <item>"1 sat"</item>
-        <item>"2 sata"</item>
-        <item>"3 sata"</item>
-        <item>"12 sati"</item>
-        <item>"24 sata"</item>
-        <item>2 dana</item>
+        <item>1 sat</item>
+        <item>12 sati</item>
+        <item>1 day</item>
+        <item>2 days</item>
         <item>1 tjedan</item>
+        <item>2 tjedna</item>
     </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+    </integer-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Ništa</item>
         <item>0 minuta</item>
-        <item>"1 minuta"</item>
-        <item>"5 minuta"</item>
-        <item>"10 minuta"</item>
-        <item>"15 minuta"</item>
-        <item>"20 minuta"</item>
-        <item>"25 minuta"</item>
-        <item>"30 minuta"</item>
-        <item>"45 minuta"</item>
-        <item>"1 sat"</item>
-        <item>"2 sata"</item>
-        <item>"3 sata"</item>
-        <item>"12 sati"</item>
-        <item>"24 sata"</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>1 sat</item>
+        <item>12 sata</item>
+        <item>1 dan</item>
         <item>2 dana</item>
         <item>1 tjedan</item>
+        <item>2 tjedna</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Zadana oznaka zemlje</item>
         <item>Subota</item>
         <item>Nedjelja</item>
         <item>Ponedjeljak</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshall Islands</item>
+        <item>Midway Island</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pacific Time</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain Time</item>
+        <item>Central America</item>
+        <item>Central Time</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Eastern Time</item>
+        <item>Venezuela</item>
+        <item>Atlantic Time (Barbados)</item>
+        <item>Atlantic Time (Canada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Greenland</item>
+        <item>Montevideo</item>
+        <item>Mid-Atlantic</item>
+        <item>Azores</item>
+        <item>Cape Verde Islands</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrade</item>
+        <item>Brussels</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>W. Africa Time</item>
+        <item>Amman, Jordan</item>
+        <item>Athens, Istanbul</item>
+        <item>Beirut, Lebanon</item>
+        <item>Cairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moscow</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
     </string-array>
     <string-array name="availability">
         <item>Zauzeto</item>
@@ -78,7 +183,7 @@
         <item>Svi događaji</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Ovaj i budući događaji</item>
+        <item>Ovaj &amp; budući događaji</item>
         <item>Svi događaji</item>
     </string-array>
     <string-array name="change_response_labels">
@@ -91,188 +196,19 @@
         <item>Mjesec</item>
         <item>Raspored</item>
     </string-array>
-    <string-array name="preferences_skip_reminders_labels">
-        <item>Samo ako je odbijeno</item>
-        <item>Ako je odbijeno ili nema odgovora</item>
-    </string-array>
-    <string-array name="recurrence_freq">
-        <item>DNEVNO PONAVLJANJE</item>
-        <item>PONAVLJAJ TJEDNO</item>
-        <item>PONAVLJAJ MJESEČNO</item>
-        <item>PONAVLJAJ GODIŠNJE</item>
-    </string-array>
-    <string-array name="repeat_by_nth_sun">
-        <item>svake prve nedjelje</item>
-        <item>svake druge nedjelje</item>
-        <item>svake treće nedjelje</item>
-        <item>svake četvrte nedjelje</item>
-        <item>svake zadnje nedjelje</item>
-    </string-array>
-    <string-array name="repeat_by_nth_mon">
-        <item>svakog prvog ponedjeljka</item>
-        <item>svakog drugog ponedjeljka</item>
-        <item>svakog trećeg ponedjeljka</item>
-        <item>svakog četvrtog ponedjeljka</item>
-        <item>svakog zadnjeg ponedjeljka</item>
-    </string-array>
-    <string-array name="repeat_by_nth_tues">
-        <item>svakog prvog utorka</item>
-        <item>svakog drugog utorka</item>
-        <item>svakog trećeg utorka</item>
-        <item>svakog četvrtog utorka</item>
-        <item>svakog zadnjeg utorka</item>
-    </string-array>
-    <string-array name="repeat_by_nth_wed">
-        <item>svake prve srijede</item>
-        <item>svake druge srijede</item>
-        <item>svake treće srijede</item>
-        <item>svake četvrte srijede</item>
-        <item>svake zadnje srijede</item>
-    </string-array>
-    <string-array name="repeat_by_nth_thurs">
-        <item>svakog prvog četvrtka</item>
-        <item>svakog drugog četvrtka</item>
-        <item>svakog trećeg četvrtka</item>
-        <item>svakog četvrtog četvrtka</item>
-        <item>svakog zadnjeg četvrtka</item>
-    </string-array>
-    <string-array name="repeat_by_nth_fri">
-        <item>svakog prvog petka</item>
-        <item>svakog drugog petka</item>
-        <item>svakog trećeg petka</item>
-        <item>svakog četvrtog petka</item>
-        <item>svakog zadnjeg petka</item>
-    </string-array>
-    <string-array name="repeat_by_nth_sat">
-        <item>svake prve subote</item>
-        <item>svake druge subote</item>
-        <item>svake treće subote</item>
-        <item>svake četvrte subote</item>
-        <item>svake zadnje subote</item>
-    </string-array>
-    <string-array name="tian_gan">
-        <item>I.</item>
-        <item>II.</item>
-        <item>III.</item>
-        <item>IV.</item>
-        <item>V.</item>
-        <item>VI.</item>
-        <item>VII.</item>
-        <item>VIII.</item>
-        <item>IX.</item>
-        <item>X.</item>
-    </string-array>
-    <string-array name="di_zhi">
-        <item>23:00 - 1:00</item>
-        <item>1:00 - 3:00</item>
-        <item>3:00 - 5:00</item>
-        <item>5:00 - 7:00</item>
-        <item>7:00 - 9:00</item>
-        <item>9:00 - 11:00</item>
-        <item>11:00 - 13:00</item>
-        <item>13:00 - 15:00</item>
-        <item>15:00 - 17:00</item>
-        <item>17:00 - 19:00</item>
-        <item>19:00 - 21:00</item>
-        <item>21:00 - 23:00</item>
-    </string-array>
-    <string-array name="jia_zi">
-        <item>Godina Yang Drvenog Štakora (1984)</item>
-        <item>Godina Yin Drvenog Vola (1985)</item>
-        <item>Godina Yang Vatrenog Tigra (1986)</item>
-        <item>Godina Yin Vatrenog Zeca (1987)</item>
-        <item>Godina Yang Zemljanog Zmaja (1988)</item>
-        <item>Godina Yin Zemljane Zmije (1989)</item>
-        <item>Godina Yang Metalnog Konja (1990)</item>
-        <item>Godina Yin Metalne Koze (1991)</item>
-        <item>Godina Yang Vodenog Majmuna (1992)</item>
-        <item>Godina Yin Vodenog Pijetla (1993)</item>
-        <item>Godina Yang Drvenog Psa (1994)</item>
-        <item>Godina Yin Drvene Svinje (1995)</item>
-        <item>Godina Yang Vatrenog Štakora (1996)</item>
-        <item>Godina Yin Vatrenog Vola (1997)</item>
-        <item>Godina Yang Zemljanog Tigra (1998)</item>
-        <item>Godina Yin Zemljanog Zeca (1999)</item>
-        <item>Godina Yang Metalnog Zmaja (2000)</item>
-        <item>Godina Yin Metalne Zmije (2001)</item>
-        <item>Godina Yang Vodenog Konja (2002)</item>
-        <item>Godina Yin Vodene Koze (2003)</item>
-        <item>Godina Yang Drvenog Majmuna (2004)</item>
-        <item>Godina Yin Drvenog Pijetla (2005)</item>
-        <item>Godina Yang Vatrenog Psa (2006)</item>
-        <item>Godina Yin Vatrene Svinje (2007)</item>
-        <item>Godina Yang Zemljanog Štakora (2008)</item>
-        <item>Godina Yin Zemljanog Vola (2009)</item>
-        <item>Godina Yang Metalnog Tigra (2010)</item>
-        <item>Godina Yin Metalnog Zeca (2011)</item>
-        <item>Godina Yang Vodenog Zmaja (2012)</item>
-        <item>Godina Yin Vodene Zmije (2013)</item>
-        <item>Godina Yang Drvenog Konja (2014)</item>
-        <item>Godina Yin Drvene Koze (2015)</item>
-        <item>Godina Yang Vatrenog Majmuna (2016)</item>
-        <item>Godina Yin Vatrenog Pijetla (2017)</item>
-        <item>Godina Yang Zemljanog Psa (2018)</item>
-        <item>Godina Yin Zemljane Svinje (2019)</item>
-        <item>Godina Yang Metalnog Štakora (2020)</item>
-        <item>Godina Yin Metalnog Vola (2021)</item>
-        <item>Godina Yang Vodenog Tigra (2022)</item>
-        <item>Godina Yin Vodenog Zeca (2023)</item>
-        <item>Godina Yang Drvenog Zmaja (2024)</item>
-        <item>Godina Yin Drvene Zmije (2025)</item>
-        <item>Godina Yang Vatrenog Konja (2026)</item>
-        <item>Godina Yin Vatrene Koze (2027)</item>
-        <item>Godina Yang Zemljanog Majmuna (2028)</item>
-        <item>Godina Yin Zemljanog Pijetla (2029)</item>
-        <item>Godina Yang Metalnog Psa (2030)</item>
-        <item>Godina Yin Metalne Svinje (2031)</item>
-        <item>Godina Yang Vodenog Štakora (2032)</item>
-        <item>Godina Yin Vodenog Vola (2033)</item>
-        <item>Godina Yang Drvenog Tigra (2034)</item>
-        <item>Godina Yin Drvenog Zeca (2035)</item>
-        <item>Godina Yang Vatrenog Zmaja (2036)</item>
-        <item>Godina Yin Vatrene Zmije (2037)</item>
-        <item>Godina Yang Zemljanog Konja (2038)</item>
-        <item>Godina Yin Zemljane Koze (2039)</item>
-        <item>Godina Yang Metalnog Majmuna (2040)</item>
-        <item>Godina Yin Metalnog Pijetla (2041)</item>
-        <item>Godina Yang Vodenog Psa (2042)</item>
-        <item>Godina Yin Vodene Svinje (2043)</item>
-    </string-array>
     <string-array name="quick_response_defaults">
-        <item>Kasnim samo nekoliko minuta.</item>
-        <item>Stižem za oko 10 minuta.</item>
+        <item>Kasni samo nekoliko minuta.</item>
+        <item>Budite tamo za oko 10 minuta.</item>
         <item>Samo naprijed, počnite bez mene.</item>
         <item>Žao mi je, ne mogu stići. Moramo promijeniti dogovor.</item>
     </string-array>
-    <string-array name="timezone_rename_labels">
-        <item>Australsko središnje – NT</item>
-        <item>Australsko središnje – SA</item>
-        <item>Australsko istočno – QLD</item>
-        <item>Australsko istočno – NSW</item>
-        <item>Planinsko standardno – Dawson Creek</item>
-        <item>Središnje standardno – Saskatchewan</item>
-        <item>Istočno standardno – Atikokan</item>
-        <item>Atlantsko standardno –  Quebec</item>
-        <item>Havajsko-aleutsko – Havaji</item>
-        <item>Havajsko-aleutsko – Aljaska</item>
-        <item>Pacifičko standardno – Metlakatla</item>
-        <item>Planinsko standardno – Arizona</item>
-        <item>Pacifičko – Baja California</item>
-        <item>Planinsko – Chihuahua</item>
-        <item>Središnje – Tamaulipas</item>
-        <item>Planinsko – Sonora</item>
-        <item>Istočnoafričko vrijeme</item>
-        <item>Atlantsko standardno vrijeme</item>
-        <item>Atlantsko standardno vrijeme</item>
-        <item>Istočnoeuropsko vrijeme</item>
-        <item>Kalinjingradsko vrijeme</item>
-        <item>Amazona – Rondônia</item>
-        <item>Brazilija – Pará</item>
+   <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Uvijek</item>
+        <item>Samo kada je zvono utišano</item>
+        <item>Nikad</item>
     </string-array>
-    <string-array name="backup_country_names">
-        <item>Sint Maarten</item>
-        <item>Karipski otoci Nizozemske</item>
-        <item>Curaçao</item>
-        <item>Južni Sudan</item>
+    <string-array name="widget_style_list">
+        <item>Transparentno crna</item>
+        <item>Bijela pozadina</item>
     </string-array>
 </resources> 

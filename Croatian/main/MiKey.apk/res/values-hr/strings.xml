@@ -6,9 +6,10 @@
   <string name="action_clear_sms_inbox">Izbriši SMS poruke</string>
   <string name="action_close">Zatvori</string>
   <string name="action_home">KUĆI</string>
+  <string name="action_kuaidi">Brzi taxi</string>
   <string name="action_lock_screen">Zaklj. zaslon</string>
   <string name="action_open_camera">Fotoaparat</string>
-  <string name="action_open_camera2">Galerija</string>
+  <string name="action_open_camera2">Snimi fotografiju</string>
   <string name="action_open_camera360_capture">Camera360 Efekti</string>
   <string name="action_open_camera360_edit">Camera360 Uređivanje</string>
   <string name="action_open_flashlight">Svjetiljka</string>
@@ -97,6 +98,7 @@
   <string name="flash_lable">Bljeskalica</string>
   <string name="front_camera">Prednja kamera</string>
   <string name="goto_update">Ažuriranje</string>
+  <string name="hint_long_press_del">Dugo pritisnite za uklanjanje</string>
   <string name="input_phone">Unesi broj telefona</string>
   <string name="long_click">Pritisni i drži</string>
   <string name="message_photo_end">Slika spremljena</string>
