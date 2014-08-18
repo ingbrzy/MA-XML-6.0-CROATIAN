@@ -272,7 +272,6 @@
   <string name="domain_address_title">Poslužitelj</string>
   <string name="doneButton">Gotovo</string>
   <string name="dtmf_tone_enable_title">Tonovi tipkovnice</string>
-  <string name="dtmf_tone_enable_title">Tonovi biranja</string>
   <string name="dtmf_tones_summary">Postavite duljinu DTMF tonova</string>
   <string name="dtmf_tones_title">DTMF tonovi</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
@@ -975,7 +974,6 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="voicemail_settings">Postavljanje</string>
   <string name="voicemail_settings_for">Postavke za %s</string>
   <string name="voicemail_settings_number_hint">Unesite broj spremnika glasovnih poruka</string>
-  <string name="voicemail_settings_number_label">Broj govorne pošte</string>
   <string name="voicemail_settings_number_label">Broj govorne pošte</string>
   <string name="wait_prompt_str">"Poslati sljedeće tonove?
 "</string>
